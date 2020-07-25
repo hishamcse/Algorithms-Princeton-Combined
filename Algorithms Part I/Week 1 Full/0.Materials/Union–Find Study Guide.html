@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!-- saved from url=(0092)https://www.cs.princeton.edu/courses/archive/spring20/cos226/lectures/study/15UnionFind.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./Union–Find Study Guide_files/cos226.css" type="text/css">
+
+
+<title>Union–Find Study Guide</title>
+<meta name="AUTHOR" content="Josh Hug">
+<meta name="KEYWORDS" content="data structures,algorithms,Sedgewick,Wayne,Algorithms in Java,Princeton,sorting,quicksort,heap,red black,trie,priority queue,graph,DFS,the hawk is our lord"> 
+<meta name="DESCRIPTION" content="Princeton COS 226: Data Structures and Algorithms"> 
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+
+</head>
+
+<body><h3>UNION–FIND STUDY GUIDE</h3>
+
+<p><br><b>Algorthm Development.</b>
+Developing a good algorithm is an iterative process. We create a model of the problem, develop 
+an algorithm, and revise the performance of the algorithm until it meets our needs.
+
+</p><p><b>Dynamic connectivity problem.</b>
+The problem is defined on an undirected graph with <em>n</em> vertices.
+There are two operations: add an edge and determine whether two vertices
+are connected by a path.
+Connectedness is an <em>equivalence relation</em>.
+This implies that we can partition the vertices into sets such that
+every vertex is in exactly one set and two vertices are connected if and only if
+they are in the same set.
+This problem motivates the union–find data type. 
+
+
+</p><p><b>Union–Find.</b>
+The goal is to develop a data type that support the following two core operations
+on disjoints sets over the the elements { 0, 1, 2, ..., <em>n</em> − 1 }:
+</p><ul>
+<p></p><li><tt>union(int p, int q)</tt></li>
+<p></p><li><tt>find(int p)</tt></li>
+</ul>
+
+The call <tt>union(p, q)</tt> merges the sets containing <tt>p</tt> and <tt>q</tt>;
+the call <tt>find(p)</tt> returns an identifier for the set
+containing element <tt>p</tt>.
+
+<p><b>Quick find.</b>
+This is the most natural solution, where each element is given an explicit identifier
+that indicates in which set it belongs.
+We use an array <tt>id[]</tt> of length <em>n</em>, where <tt>id[i]</tt> is the identifier
+of element <tt>i</tt> (which is returned by <tt>find(i)</tt>).
+To union two objects <tt>p</tt> and <tt>q</tt>, we set every element
+with <tt>p</tt>'s identifer to have <tt>q</tt>'s identifier.
+
+</p><ul>
+<p></p><li><em>Union</em>: May require many changes to <tt>id[]</tt>. Takes <em>n</em>
+time in the worst case (to union large sets).
+
+<p></p></li><li><em>Find</em>: takes constant time.
+</li></ul>
+
+Performing <em>m</em> union–find operations takes <em>mn</em> time.
+If <em>m</em> is proportional to <em>n</em>, this results in <em>n</em><sup>2</sup> time.
+
+<p><b>Quadratic algorithms don't scale.</b>
+Given an <em>k</em>-times larger problems on an <em>k</em>-times faster computer,
+the problem takes <em>k</em>-times as long to run.
+
+</p><p><b>Quick union.</b>
+We store the elements in a forest of trees, with the elements in each tree corresponding
+to a different set.
+We store the parent pointers in an array,
+where <tt>parent[i]</tt> is the parent in the tree of element <tt>i</tt>.
+We use the <em>root</em> of the tree as the set identifier.
+By convention, we set the parent pointer of a root to itself.
+The <tt>find()</tt> method climbs the ladder of
+parents until it reaches the root (an object whose parent is itself).
+To union <tt>p</tt> and <tt>q</tt>, we set the root of <tt>p</tt>
+to point to the root of <tt>q</tt>.
+
+</p><ul>
+<p></p><li><em>Union</em>: Requires changing only one entry in <tt>parent[]</tt>,
+but also requires root finding (worst case <em>n</em> time).
+
+<p></p></li><li><em>Find</em>: Requires root finding (worst case <em>n</em> time).
+</li></ul>
+
+Performing <em>m</em> union–find operations takes <em>mn</em> time in the worst case.
+Again, this results in quadratic behavior.
+
+<p><b>Weighted quick union (union-by-size).</b>
+Rather than <tt>union(p, q)</tt> making the root of <tt>p</tt> point to the root of <tt>q</tt>,
+we instead make the root of the smaller tree point to the root of the larger one.
+The <em>size</em> of a tree is the <em>number</em> of nodes.
+Using union-by-size, the height of each tree is at most lg <em>n</em>
+(you should understand this proof).
+(An alternate strategy, known as <em>union-by-height</em>, use the height of the tree instead of the size.)
+
+</p><ul>
+<p></p><li><em>Union</em>: Requires only one change to <tt>parent[]</tt>,
+but also requires root finding (worst case log <em>n</em> time).
+
+<p></p></li><li><em>Find</em>: Requires root finding (worst case log <em>n</em> time).
+</li></ul>
+
+Warning: if the two trees have the same size, the code has the opposition convention as
+quick-union and sets the root of the second tree to point to the root of the first tree.
+
+<!--
+<p><b>Weighted quick-union with path compression.</b>
+When find is called, the tree is compressed. Results in nearly flat trees.
+Making <em>m</em> calls to union and find with <em>n</em> objects results in no more
+than <em>m</em> log<sup>*</sup><em>n</em> array accesses. For any conceivable values of <em>n</em>
+in this universe, log<sup>*</sup><em>n</em> is at most 5.
+-->
+
+<h3>Recommended Problems</h3>
+
+<h4>C level</h4>
+<ol>
+    <li>What are the best-case and worst-case tree heights for
+weighted quick-union and weighted quick-union with path compression? Give your answers in terms of order of growth.</li>
+	<li>Textbook: 1.5.1, 1.5.2, 1.5.3</li>
+</ol>
+
+<h4>B level</h4>
+<ol>
+	<li>Fall 11 Midterm, #1</li>
+	<li>Fall 12 Midterm, #1</li>
+	<li>Textbook: 1.5.8</li>
+	<li>Textbook: 1.5.9</li>
+</ol>
+
+<h4>A level</h4>
+<ol>
+<li>Textbook: 1.5.10</li>
+<li>If we're concerned about tree height, why we perform <em>union-by-height</em> 
+instead of <em>union-of-size</em>?
+What is the worst-case tree height for union-by-height vs. union-by-size? What is the average tree height?
+</li><li>Try writing weighted quick-union <em>with path compression</em> without looking at the code on the booksite.
+You may look at the API. Compare your resulting code with
+<a href="https://algs4.cs.princeton.edu/15uf/WeightedQuickUnionPathCompressionUF.java.html">the booksite code.</a></li>
+</ol>
+
+
+
+
+</body></html>
