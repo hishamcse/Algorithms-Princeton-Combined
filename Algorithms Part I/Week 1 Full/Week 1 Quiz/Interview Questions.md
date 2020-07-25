@@ -7,12 +7,12 @@ Assume that the log file is sorted by timestamp and that friendship is an equiva
 use extra space proportional to n. <br /><br />
 
 ##### Question 2
-Union-find with specific canonical element. Add a method find() to the union-find data type so that find(i) returns the largest element in the connected component <br />
-containing i. The operations, union(), connected(), and find() should all take logarithmic time or better.<br />
+Union-find with specific canonical element. Add a method find() to the union-find data type so that find(i) returns the largest element in the connected component
+containing i. The operations, union(), connected(), and find() should all take logarithmic time or better.
 For example, if one of the connected components is {1,2,6,9}, then the find() method should return 99 for each of the four elements in the connected components. <br /><br />
 
 ##### Question 3
 Successor with delete. Given a set of nn integers S={0,1,...,n−1} and a sequence of requests of the following form: <br />
- *Remove x from S <br />
- *Find the successor of x: the smallest y in S such that y≥x. <br />
+  *Remove x from S <br />
+  *Find the successor of x: the smallest y in S such that y≥x. <br />
 design a data type so that all operations (except construction) take logarithmic time or better in the worst case. <br /><br /><br />
