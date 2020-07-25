@@ -33,16 +33,16 @@ proportional to n^2 or better. <br /><br />
 #### Search in a bitonic array. <br />
 An array is bitonic if it is comprised of an increasing sequence of integers followed immediately by a decreasing sequence of integers. Write a program that, given a bitonic array of n distinct integer values, determines whether a given integer is in the array. <br />
 
-Standard version: Use ∼3lgn compares in the worst case. <br />
-Signing bonus: Use ∼2lgn compares in the worst case (and prove that no algorithm can guarantee to perform fewer than ∼2lgn compares in the worst case). <br /><br />
+Standard version:  Use ∼3lgn compares in the worst case. <br />
+Signing bonus:  Use ∼2lgn compares in the worst case (and prove that no algorithm can guarantee to perform fewer than ∼2lgn compares in the worst case). <br /><br />
 
 ##### Question 3
 #### Egg drop. <br />
 Suppose that you have an n-story building (with floors 1 through n) and plenty of eggs. An egg breaks if it is dropped from floor T or higher and does not break otherwise. Your goal is to devise a strategy to determine the value of T given the following limitations on the number of eggs and tosses: <br />
 
-Version 0: 1 egg,≤T tosses. <br />
-Version 1: ~1lgn eggs and ∼1lgn tosses. <br />
-Version 1: ~1lgn eggs and ∼1lgn tosses. <br />
-Version 2: ∼lgT eggs and ∼2lgT tosses. <br />
-Version 3: 2 eggs and ~2sqrt(n) tosses. <br />
-Version 4: 2 eggs and ≤ csqrt(T) tosses for some fixed constant cc.
+Version 0:  1 egg,≤T tosses. <br />
+Version 1:  ~1lgn eggs and ∼1lgn tosses. <br />
+Version 1:  ~1lgn eggs and ∼1lgn tosses. <br />
+Version 2:  ∼lgT eggs and ∼2lgT tosses. <br />
+Version 3:  2 eggs and ~2sqrt(n) tosses. <br />
+Version 4:  2 eggs and ≤ csqrt(T) tosses for some fixed constant cc.
