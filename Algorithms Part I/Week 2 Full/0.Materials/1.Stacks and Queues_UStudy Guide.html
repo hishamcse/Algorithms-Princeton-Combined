@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!-- saved from url=(0098)https://www.cs.princeton.edu/courses/archive/spring20/cos226/lectures/study/13StacksAndQueues.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./1.Stacks and Queues Study Guide_files/cos226.css" type="text/css">
+
+
+<title>Stacks and Queues Study Guide</title>
+<meta name="AUTHOR" content="Josh Hug">
+<meta name="KEYWORDS" content="data structures,algorithms,Sedgewick,Wayne,Algorithms in Java,Princeton,sorting,quicksort,heap,red black,trie,priority queue,graph,DFS,the hawk is our lord"> 
+<meta name="DESCRIPTION" content="Princeton COS 226: Data Structures and Algorithms"> 
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+
+</head>
+
+
+<body><h3>STACKS AND QUEUES STUDY GUIDE</h3>
+
+<p><br>
+
+</p><p><b>Stacks and queues</b>. Understand the semantics of each.
+
+</p><p><b>Linked lists</b>.
+Understand how they can be used to implement a stack or a queue, how to calculate the memory used by a linked list (using the 64-bit memory 
+model) for N items in a queue, and how to show that queue and stack operations complete in constant time.
+
+</p><p><b>Resizing arrays</b>.
+Understand how they can be used to implement a stack or a queue.
+Understand why the worst case memory usage and running times are different than the best case.
+
+</p><p><b>Amortized analysis</b>.
+The idea is simpler that it might seem at first. If we say that X-operations take amortized f(M) Y-operations, this means that if we start with 
+an <em>empty data structure</em>, the average cost for any sequence of M X-operations is f(M) Y-operations.
+
+</p><p>For example, for a resizing array stack, we say that push and pop operations take amortized constant time.
+This means that if we start with an empty stack, any sequence of pushes or pops take on average a constant number
+of array accesses per push or  pop. In this example X is { push, pop }, Y is array accesses, and f(M) is just 1.
+
+</p><p><b>Generics</b>.
+Understand that these provide the ability to parameterize data types. Understand why this approach is superior to other approaches (writing 
+separate classes, using the Object type and doing runtime casting).
+
+</p><p><b>Compile time vs. run time errors</b>. Understand why the former are preferred.
+
+</p><p><b>Iterators</b>.
+Understand what it means for a class to implement the <tt>Iterable</tt> interface.
+Understand what a class must do to implement the <tt>java.util.Iterator</tt> interface.
+Understand how the foreach loop (enhanced for loop) works.
+Understand how to convert code using a foreach loop into equivalent longhand code.
+
+</p><p><b>Loitering</b>. Understand how to avoid loitering in Java.
+
+</p><h3>Recommended Problems</h3>
+
+<h4>C level</h4>
+
+<ol>
+<li>Textbook 1.3.6
+</li><li>1.3.3
+</li><li>1.3.22, then 1.3.23
+</li><li> Understand why the we prevent loitering by adding the line A[N] = null in Algorithm 1.1 on page 141 of the book.
+Why do we not have a special purpose line like this for our linked list implementation (page 149, algorithm 1.2).
+
+</li></ol>
+
+<h4>B level</h4>
+<li>Textbook 1.3.5</li>
+<li>Textbook 1.4.35 - a pushdown stack is just a stack.
+</li><li>Textbook 1.4.36 [important note: they recommend using a static inner class to reduce Node overhead,
+hence the disagreement with the lecture slides!]
+</li><li>Consider Algorithm 1.1 on page 141 of the book.
+We showed in lecture that the memory usage of this class is ~8N and ~32N bytes in the best and worst cases respectively. If we get rid of the 
+line A[N] = null, which prevents loitering, how does this affect the best and worst case memory usage of our resizing array based stack? 
+Highlight for answer: <font color="FFFFFF">It doesn't! Follow up question with no provided answer: Then why do we care?</font>
+
+
+
+<h4>A level</h4> <ol> <li>Textbook 1.4.32</li>  <li> Suppose we have a resizing array that increases in size by K entries when the array is 
+full, and decreases in size by K entries when the array has K empty entries. Show that the push and pop take amortized M time for some worst 
+case sequence. Give an example of a worst case sequence. Observe that this results in M<sup>2</sup> time for M operations.
+
+</li></ol>
+
+
+
+
+
+
+
+
+</li></body></html>
