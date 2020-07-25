@@ -21,7 +21,7 @@ A disorganized carpenter has a mixed pile of n nuts and n bolts. The goal is to 
 
 ##### Question 2
 #### Selection in two sorted arrays. <br />
-Given two sorted arrays a[] and b[], of lengths n1 and n2 and an integer 0≤ k< n1+n2, <br />
+Given two sorted arrays a[] and b[], of lengths n1 and n2 and an integer 0≤ k< n1+n2,
 design an algorithm to find a key of rank k. The order of growth of the worst case running time of your algorithm should be logn, where n = n1 + n2 <br />
 
 Version 1 : n1=n2 (equal length arrays) and k=n/2 (median). <br />
