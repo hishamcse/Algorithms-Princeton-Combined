@@ -1,0 +1,1001 @@
+1000
+219812	Wal-Mart Stores
+191581	Exxon Mobil
+177260	General Motors
+162412	Ford Motor
+138718	Enron
+125913	General Electric
+112022	Citigroup
+ 99699	ChevronTexaco
+ 85866	Intl. Business Machines
+ 72944	Philip Morris
+ 67190	Verizon Communications
+ 62402	American Intl. Group
+ 61257	American Electric Power
+ 59503	Duke Energy
+ 59142	AT&T
+ 58198	Boeing
+ 57475	El Paso
+ 53553	Home Depot
+ 52641	Bank of America Corp.
+ 50803	Fannie Mae
+ 50429	J.P. Morgan Chase
+ 50098	Kroger
+ 47948	Cardinal Health
+ 47716	Merck
+ 46705	State Farm Insurance
+ 46226	Reliant Energy
+ 45908	SBC Communications
+ 45226	Hewlett-Packard
+ 43727	Morgan Stanley
+ 42242	Dynegy
+ 42010	McKesson
+ 41078	Sears Roebuck
+ 40377	Aquila
+ 39888	Target
+ 39244	Procter & Gamble
+ 38793	Merrill Lynch
+ 38234	AOL Time Warner
+ 37931	Albertson's
+ 37668	Berkshire Hathaway
+ 36910	Kmart
+ 35523	Freddie Mac
+ 35179	WorldCom
+ 35041	Marathon Oil
+ 34797	Costco Wholesale
+ 34301	Safeway
+ 33554	Compaq Computer
+ 33004	Johnson & Johnson
+ 32795	Conoco
+ 32259	Pfizer
+ 32004	J.C. Penney
+ 31928	MetLife
+ 31502	Mirant
+ 31168	Dell Computer
+ 31138	Goldman Sachs Group
+ 30646	United Parcel Service
+ 30004	Motorola
+ 28865	Allstate
+ 27927	TXU
+ 27897	United Technologies
+ 27805	Dow Chemical
+ 27194	ConAgra
+ 27177	Prudential Financial
+ 26935	PepsiCo
+ 26891	Wells Fargo
+ 26539	Intel
+ 26363	International Paper
+ 26088	Delphi
+ 26071	Sprint
+ 25678	New York Life Insurance
+ 25370	DuPont de Nemours (E.I.)
+ 25309	Georgia-Pacific
+ 25296	Microsoft
+ 25269	Walt Disney
+ 25191	Aetna
+ 25187	Ingram Micro
+ 25132	Lucent Technologies
+ 24793	Lockheed Martin
+ 24623	Walgreen
+ 24527	Bank One Corp.
+ 24231	TIAA-CREF
+ 24189	Phillips Petroleum
+ 24130	BellSouth
+ 23652	Honeywell Intl.
+ 23454	UnitedHealth Group
+ 23223	Viacom
+ 23194	Supervalu
+ 22959	PG&E Corp.
+ 22859	Alcoa
+ 22582	American Express
+ 22396	Wachovia Corp.
+ 22392	Lehman Brothers Hldgs.
+ 22293	Cisco Systems
+ 22241	CVS
+ 22111	Lowe's
+ 21785	Sysco
+ 21717	Bristol-Myers Squibb
+ 21543	Electronic Data Systems
+ 20450	Caterpillar
+ 20092	Coca-Cola
+ 20051	Archer Daniels Midland
+ 19989	AutoNation
+ 19743	Qwest Communications
+ 19629	FedEx
+ 19340	Mass. Mutual Life Ins.
+ 19299	Pharmacia
+ 19190	FleetBoston
+ 19115	Cigna
+ 18963	AMR
+ 18799	Loews
+ 18692	Solectron
+ 18427	Johnson Controls
+ 18250	Sun Microsystems
+ 17953	HCA
+ 17843	Visteon
+ 17747	Sara Lee
+ 17692	Washington Mutual
+ 17198	Tech Data
+ 16895	Federated Dept. Stores
+ 16867	Raytheon
+ 16502	Xerox
+ 16443	U.S. Bancorp
+ 16383	TRW
+ 16285	Abbott Laboratories
+ 16212	Northwestern Mutual
+ 16138	UAL
+ 16079	Minnesota Mining & Mfg.
+ 15823	AmerisourceBergen
+ 15700	Coca-Cola Enterprises
+ 15628	Fleming
+ 15480	Emerson Electric
+ 15327	Best Buy
+ 15297	Rite Aid
+ 15284	Publix Super Markets
+ 15147	Hartford Fin. Services
+ 15140	Exelon
+ 15118	Nationwide
+ 15028	Xcel Energy
+ 14988	Valero Energy
+ 14870	McDonald's
+ 14545	Weyerhaeuser
+ 14524	Kimberly-Clark
+ 14256	Liberty Mutual Group
+ 14175	May Dept. Stores
+ 14147	Goodyear Tire & Rubber
+ 14129	Wyeth
+ 14126	Occidental Petroleum
+ 13916	Household International
+ 13879	Delta Air Lines
+ 13848	Gap
+ 13625	Lear
+ 13558	Northrop Grumman
+ 13413	Amerada Hess
+ 13405	Halliburton
+ 13293	Deere
+ 13234	Eastman Kodak
+ 12977	CMS Energy
+ 12959	Circuit City Stores
+ 12923	Cinergy
+ 12912	Anheuser-Busch
+ 12903	Winn-Dixie Stores
+ 12814	Avnet
+ 12429	WellPoint Health Netwks.
+ 12402	Sunoco
+ 12321	Textron
+ 12184	Edison International
+ 12163	General Dynamics
+ 12053	Tenet Healthcare
+ 11973	Union Pacific
+ 11844	PacifiCare Health Sys.
+ 11763	Farmland Industries
+ 11543	Eli Lilly
+ 11322	Waste Management
+ 11154	Office Depot
+ 11055	Williams
+ 11019	Toys `R` Us
+ 10860	Oracle
+ 10751	Tyson Foods
+ 10744	Staples
+ 10709	TJX
+ 10558	Dominion Resources
+ 10524	Computer Sciences
+ 10484	Manpower
+ 10469	Dana
+ 10445	Anthem
+ 10379	Allegheny Energy
+ 10343	Whirlpool
+ 10195	Humana
+ 10155	Southern
+ 10152	Marriott International
+ 10145	MBNA
+ 10128	Arrow Electronics
+ 10065	Health Net
+  9943	Marsh & McLennan
+  9905	NWA
+  9815	Public Svc. Enter. Group
+  9802	Schering-Plough
+  9698	Illinois Tool Works
+  9674	Comcast
+  9634	Consolidated Edison
+  9621	Entergy
+  9614	AES
+  9598	AFLAC
+  9565	NiSource
+  9489	Nike
+  9435	UnumProvident
+  9430	H.J. Heinz
+  9428	Colgate-Palmolive
+  9363	Limited
+  9361	John Hancock Finan. Svcs.
+  9329	Express Scripts
+  9208	Burlington No. Santa Fe
+  9161	Agilent Technologies
+  9093	National City Corp.
+  8972	Fluor
+  8971	USAA
+  8969	Continental Airlines
+  8950	Cendant
+  8943	St. Paul Cos.
+  8907	Guardian Life of America
+  8853	Kellogg
+  8818	Principal Financial
+  8714	SCI Systems
+  8701	Bear Stearns
+  8585	R.J. Reynolds Tobacco
+  8547	Ashland
+  8475	FPL Group
+  8462	Progress Energy
+  8443	Pepsi Bottling
+  8435	SunTrust Banks
+  8388	Dillard's
+  8377	Smurfit-Stone Container
+  8369	Anadarko Petroleum
+  8358	Masco
+  8288	US Airways Group
+  8221	Genuine Parts
+  8201	Texas Instruments
+  8169	PPG Industries
+  8110	CSX
+  8108	Conseco
+  8084	Gillette
+  8029	Sempra Energy
+  7999	FirstEnergy
+  7970	Clear Channel Commun.
+  7875	Cenex Harvest States
+  7849	DTE Energy
+  7789	Aramark
+  7676	Aon
+  7663	Baxter International
+  7600	Chubb
+  7599	Alltel
+  7590	Calpine
+  7574	Nextel Communications
+  7489	Kohl's
+  7488	Progressive
+  7465	American Standard
+  7422	Boise Cascade
+  7352	KeyCorp
+  7343	Applied Materials
+  7299	Eaton
+  7254	Capital One Financial
+  7192	Bank of New York Co.
+  7187	Crown Cork & Seal
+  7091	EMC
+  7078	General Mills
+  7024	AdvancePCS
+  7018	Automatic Data Proc.
+  6953	Safeco
+  6953	Tricon Global Restrnts.
+  6921	PNC Financial Svcs. Group
+  6909	Newell Rubbermaid
+  6900	KeySpan
+  6889	Omnicom Group
+  6874	Northeast Utilities
+  6868	Plains All Amer. Pipeline
+  6805	ArvinMeritor
+  6803	ONEOK
+  6793	Avaya
+  6752	Unocal
+  6727	Interpublic Group
+  6722	Navistar International
+  6711	Centex
+  6664	Campbell Soup
+  6506	Fifth Third Bancorp
+  6451	First Data
+  6418	Premcor
+  6411	Lincoln National
+  6344	Gannett
+  6337	Sonic Automotive
+  6272	Corning
+  6230	Dean Foods
+  6228	BB&T Corp.
+  6221	United Auto Group
+  6170	Norfolk Southern
+  6163	Science Applications Intl.
+  6089	Paccar
+  6080	Gateway
+  6071	Saks
+  6029	Lennar
+  6021	Avista
+  6018	Unisys
+  6013	Owens-Illinois
+  5995	Avon Products
+  5980	Parker Hannifin
+  5917	NCR
+  5900	Smithfield Foods
+  5896	Rohm & Haas
+  5836	Conectiv
+  5811	ServiceMaster
+  5725	PPL
+  5723	Air Products & Chem.
+  5681	Cummins
+  5648	Idacorp
+  5637	State St. Corp.
+  5634	Nordstrom
+  5614	Caremark Rx
+  5565	Allied Waste Industries
+  5555	Southwest Airlines
+  5552	Medtronic
+  5530	Providian Financial
+  5519	VF
+  5457	Federal-Mogul
+  5384	Eastman Chemical
+  5382	Baker Hughes
+  5382	Pulte Homes
+  5363	Apple Computer
+  5323	Dollar General
+  5318	Fortune Brands
+  5298	R.R. Donnelley & Sons
+  5285	USA Networks
+  5281	Charles Schwab
+  5280	BJ's Wholesale Club
+  5274	Ikon Office Solutions
+  5253	Tribune
+  5223	TransMontaigne
+  5218	Tesoro Petroleum
+  5158	Praxair
+  5109	American Family Ins. Grp.
+  5097	Engelhard
+  5066	Sherwin-Williams
+  5013	Goodrich
+  5006	Ryder System
+  4874	CNF
+  4870	Barnes & Noble
+  4829	Graybar Electric
+  4819	Countrywide Credit
+  4818	AutoZone
+  4804	Mattel
+  4776	RadioShack
+  4762	Owens Corning
+  4754	W.W. Grainger
+  4717	Adams Resources & Engy.
+  4691	Pitney Bowes
+  4688	Dole Food
+  4676	ITT Industries
+  4647	KB Home
+  4646	McGraw-Hill
+  4636	OfficeMax
+  4631	Park Place Entertainment
+  4612	Sierra Pacific Resources
+  4608	Estee Lauder
+  4564	Maytag
+  4557	Hershey Foods
+  4551	Pinnacle West Capital
+  4528	Dover
+  4516	Micron Technology
+  4506	Ameren
+  4479	Murphy Oil
+  4456	D.R. Horton
+  4454	Willamette Industries
+  4452	Quantum
+  4446	Golden West Financial
+  4421	Oxford Health Plans
+  4405	Cablevision Systems
+  4381	HEALTHSOUTH
+  4379	Foot Locker
+  4373	Administaff
+  4333	Black & Decker
+  4331	Jabil Circuit
+  4328	Mutual of Omaha Ins.
+  4323	Rockwell Automation
+  4320	Golden State Bancorp
+  4305	Longs Drug Stores
+  4259	Levi Strauss
+  4257	Kelly Services
+  4238	NorthWestern
+  4210	Cooper Industries
+  4198	Computer Assoc. Intl.
+  4197	Comerica
+  4172	Temple-Inland
+  4143	Lexmark International
+  4139	Nucor
+  4124	Hormel Foods
+  4114	Leggett & Platt
+  4114	SPX
+  4107	Nash Finch
+  4073	Jones Apparel Group
+  4059	Cox Communications
+  4055	Mellon Financial Corp.
+  4054	Sanmina-SCI
+  4038	Regions Financial
+  4021	Darden Restaurants
+  4017	Pathmark Stores
+  4016	Amgen
+  4010	MGM Mirage
+  4008	Pittston
+  4002	Phelps Dodge
+  4001	Echostar Communications
+  3996	Group 1 Automotive
+  3994	AK Steel Holding
+  3991	Autoliv
+  3984	MeadWestvaco
+  3981	Encompass Services
+  3967	Starwood Hotels & Rsrts.
+  3962	CDW Computer Centers
+  3957	Jacobs Engineering Grp.
+  3956	LTV
+  3953	Charter Communications
+  3948	American Financial Grp.
+  3931	York International
+  3929	Wisconsin Energy
+  3928	Constellation Energy
+  3926	United Stationers
+  3903	Clorox
+  3892	Advanced Micro Devices
+  3886	Steelcase
+  3874	Fidelity Natl. Financial
+  3871	FMC
+  3871	Peter Kiewit Sons'
+  3815	Owens & Minor
+  3803	Avery Dennison
+  3797	Maxtor
+  3782	Danaher
+  3760	Energy East
+  3755	NTL
+  3754	Becton Dickinson
+  3754	Host Marriott
+  3751	First American Corp.
+  3742	SouthTrust Corp.
+  3735	Pacific LifeCorp
+  3709	Harrah's Entertainment
+  3686	Ball
+  3684	Brunswick
+  3665	Family Dollar Stores
+  3658	Wesco International
+  3648	Ames Dept. Stores
+  3638	Kerr-McGee
+  3628	Quest Diagnostics
+  3551	Smith International
+  3520	Spartan Stores
+  3515	USA Education
+  3497	Interstate Bakeries
+  3452	Roundy's
+  3451	SCANA
+  3449	Liz Claiborne
+  3446	Mohawk Industries
+  3435	Adelphia Communications
+  3433	Big Lots
+  3425	Core-Mark International
+  3420	Emcor Group
+  3397	Foster Wheeler
+  3388	Borders Group
+  3387	Shopko Stores
+  3383	AmSouth Bancorp.
+  3374	Puget Energy
+  3364	Tenneco Automotive
+  3363	Harley-Davidson
+  3355	Western Gas Resources
+  3334	Bethlehem Steel
+  3332	Jefferson-Pilot
+  3326	Burlington Resources
+  3312	Allmerica Financial
+  3296	USG
+  3277	Yellow
+  3262	Northern Trust Corp.
+  3258	Aid Assn. for Lutherans
+  3237	Performance Food Group
+  3233	JDS Uniphase
+  3226	Lyondell Chemical
+  3211	Airborne
+  3202	Comdisco
+  3192	NSTAR
+  3182	OGE Energy
+  3180	Enterprise Products
+  3180	Staff Leasing
+  3171	PepsiAmericas
+  3155	Cooper Tire & Rubber
+  3147	Coventry Health Care
+  3144	Anixter International
+  3144	Union Planters Corp.
+  3135	Armstrong Holdings
+  3130	Equity Office Properties
+  3122	Amazon.Com
+  3120	Lennox International
+  3107	American Axle & Mfg.
+  3090	C.H. Robinson Worldwide
+  3081	Kindred Healthcare
+  3075	Devon Energy
+  3068	Sealed Air
+  3050	Hilton Hotels
+  3043	New York Times
+  3038	Hughes Supply
+  3019	Vulcan Materials
+  3018	Universal
+  3016	Auto-Owners Insurance
+  3016	Neiman Marcus
+  3010	3Com
+  3002	H&R Block
+  2993	Reebok International
+  2987	Ross Stores
+  2975	Trigon Healthcare
+  2930	Unified Western Grocers
+  2914	Payless Shoesource
+  2909	TruServ
+  2901	Pioneer-Standard Elec.
+  2900	Knight-Ridder
+  2894	Ace Hardware
+  2887	United Rentals
+  2880	Fisher Scientific Intl.
+  2856	Hasbro
+  2856	KPMG Consulting
+  2852	Charter One Financial
+  2847	Thermo Electron
+  2841	Universal Health Svcs.
+  2839	A.G. Edwards
+  2820	Rockwell Collins
+  2820	Transocean Sedco Forex
+  2817	Solutia
+  2812	Pactiv
+  2809	Wackenhut
+  2806	Pentair
+  2792	Roadway
+  2777	Alliant Energy
+  2777	Apache
+  2743	Ruddick
+  2742	Ryland Group
+  2719	Crompton
+  2716	Lutheran Brotherhood
+  2714	IMC Global
+  2713	Beverly Enterprises
+  2713	Spherion
+  2712	Marshall & Ilsley Corp.
+  2708	Guidant
+  2707	Torchmark
+  2694	Manor Care
+  2680	Qualcomm
+  2676	WPS Resources
+  2673	Boston Scientific
+  2670	Triad Hospitals
+  2655	PolyOne
+  2649	Sovereign Bancorp
+  2649	Starbucks
+  2649	TECO Energy
+  2643	Pantry
+  2638	Nacco Industries
+  2624	NVR
+  2624	Stanley Works
+  2620	Hercules
+  2606	Sonoco Products
+  2602	Stryker
+  2589	Telephone & Data Sys.
+  2582	Earthgrains
+  2579	M&T Bank Corp.
+  2574	Citizens Communications
+  2574	Stater Bros. Holdings
+  2570	Genesis Health Ventures
+  2561	Cincinnati Financial
+  2561	Popular
+  2558	Henry Schein
+  2546	Natl. Service Industries
+  2544	Nicor
+  2542	AGCO
+  2534	Unitrin
+  2532	Fleetwood Enterprises
+  2531	Michaels Stores
+  2525	Intl. Multifoods
+  2519	American Greetings
+  2518	Advance Auto Parts
+  2518	Reader's Digest Assn.
+  2512	Scientific-Atlanta
+  2510	Service Corp. Intl.
+  2503	PEPCO
+  2501	PETsMART
+  2494	Alberto-Culver
+  2481	Penn Traffic
+  2477	Dura Automotive Systems
+  2474	Brinker International
+  2473	Sabre Holdings
+  2468	UGI
+  2467	Tower Automotive
+  2462	Mandalay Resort Group
+  2461	Footstar
+  2459	First Tenn. Natl. Corp.
+  2459	USFreightways
+  2453	Robert Half Intl.
+  2453	U.S. Industries
+  2449	Bowater
+  2448	Huntington Bancshares
+  2447	Timken
+  2441	Commercial Metals
+  2434	CellStar
+  2432	Exide Technologies
+  2430	Adolph Coors
+  2430	Wm. Wrigley Jr.
+  2429	Burlington Coat Factory
+  2422	Phoenix Companies
+  2417	Washington Post
+  2403	ADC Telecommunications
+  2397	Bed Bath & Beyond
+  2397	Constellation Brands
+  2394	Erie Insurance Group
+  2391	Wendy's International
+  2373	Old Republic Intl.
+  2372	McCormick
+  2367	OM Group
+  2366	Molex
+  2360	Louisiana-Pacific
+  2355	Ecolab
+  2355	Franklin Resources
+  2352	BorgWarner
+  2352	PNM Resources
+  2351	Broadwing
+  2347	L-3 Communications
+  2329	Weatherford Intl.
+  2326	Precision Castparts
+  2321	Convergys
+  2319	URS
+  2315	Pennzoil-Quaker State
+  2314	Value City
+  2293	Bemis
+  2282	Kellwood
+  2278	Belk
+  2277	Analog Devices
+  2272	Whole Foods Market
+  2270	Peoples Energy
+  2259	Mail-Well
+  2258	Republic Services
+  2256	La-Z-Boy
+  2244	Ryerson Tull
+  2242	Chiquita Brands Intl.
+  2238	Consol. Freightways
+  2236	Herman Miller
+  2234	BJ Services
+  2234	Budget Group
+  2230	Toll Brothers
+  2226	Polo Ralph Lauren
+  2225	Nabors Industries
+  2224	MDU Resources Group
+  2215	Pilgrim's Pride
+  2200	Lab. Corp. of Amer.
+  2200	Tellabs
+  2186	Western Resources
+  2184	Pep Boys
+  2171	Equity Res. Properties
+  2171	LandAmerica Financial
+  2170	Vectren
+  2161	Cintas
+  2159	Omnicare
+  2158	Maxxam
+  2141	Alaska Air Group
+  2134	American National Ins.
+  2128	Allegheny Technologies
+  2127	Outback Steakhouse
+  2126	MDC Holdings
+  2122	Sun Healthcare Group
+  2118	CenturyTel
+  2113	National Semiconductor
+  2112	Swift Transportation
+  2109	CUNA Mutual Group
+  2109	Harsco
+  2107	Hillenbrand Industries
+  2105	Wyndham International
+  2104	Kla-Tencor
+  2104	MONY Group
+  2100	J.B. Hunt Transport Svcs.
+  2100	National Fuel Gas
+  2096	Snap-On
+  2096	Williams-Sonoma
+  2087	Mariner Post-Acute Ntwk.
+  2082	Insight Enterprises
+  2081	Nortek
+  2073	PeopleSoft
+  2069	Synovus Financial Corp.
+  2068	Zale
+  2066	America West Holdings
+  2064	Affiliated Computer Svcs.
+  2062	E*Trade Group
+  2049	Simon Property Group
+  2048	New Jersey Resources
+  2048	Siebel Systems
+  2045	Storage Technology
+  2015	Quanta Services
+  2011	Zions Bancorp
+  2010	Compuware
+  2008	RPM
+  2007	Bell Microproducts
+  2004	General Cable
+  2001	Volt Info. Sciences
+  1998	Metaldyne
+  1994	Charming Shoppes
+  1988	Weis Markets
+  1987	Dollar Tree Stores
+  1984	Beckman Coulter
+  1965	Protective Life
+  1964	CBRL Group
+  1962	Scholastic
+  1955	Harris
+  1954	Western Digital
+  1953	Ingles Markets
+  1950	ABM Industries
+  1942	W.R. Berkley
+  1941	Silgan Holdings
+  1940	WGL Holdings
+  1935	TravelCenters of America
+  1933	Southern Union
+  1929	SunGard Data Systems
+  1928	Casey's General Stores
+  1926	Safeguard Scientifics
+  1924	Brown-Forman
+  1923	CH2M Hill
+  1922	Walter Industries
+  1921	Valspar
+  1918	Flowserve
+  1905	Teleflex
+  1904	Trinity Industries
+  1902	Ohio Casualty
+  1894	Compass Bancshares
+  1891	Fiserv
+  1891	Furniture Brands Intl.
+  1889	DynCorp
+  1889	Sentry Insurance Group
+  1888	Frontier Oil
+  1887	Alpine Group
+  1887	Corn Products Intl.
+  1880	Health Management Associates
+  1877	Marsh Supermarkets
+  1873	Lithia Motors
+  1870	Magellan Health Svcs.
+  1855	Silicon Graphics
+  1851	Metris
+  1850	Carlisle
+  1845	Lubrizol
+  1844	Intl. Flavors & Frag.
+  1839	Freeport-McMoRan C&G
+  1834	Jack in the Box
+  1826	Worthington Industries
+  1825	Brightpoint
+  1824	Linens 'n Things
+  1823	Collins & Aikman
+  1815	PSS World Medical
+  1814	Amerco
+  1813	Terex
+  1811	Gold Kist
+  1811	McLeodUSA
+  1809	Rent-A-Center
+  1808	Kennametal
+  1808	MAMSI
+  1805	Beazer Homes USA
+  1805	Seaboard
+  1801	Minnesota Life
+  1792	Hon Industries
+  1790	Packaging Corp. of America
+  1785	LSI Logic
+  1773	Dow Jones
+  1765	Equitable Resources
+  1765	WestPoint Stevens
+  1760	Diebold
+  1757	W.R. Grace
+  1756	Brown Shoe
+  1756	Sequa
+  1752	Potlatch
+  1748	National Oilwell
+  1748	Scotts
+  1742	Hovnanian Enterprises
+  1742	Primedia
+  1739	Southern States Coop.
+  1736	Paychex
+  1732	Hawaiian Elec. Inds.
+  1722	Greenpoint Financial
+  1717	Harman Intl. Industries
+  1712	Bausch & Lomb
+  1707	Concord EFS
+  1698	Cabot
+  1694	Community Health Sys.
+  1694	Dial
+  1694	Energizer Holdings
+  1693	Integrated Electrical Svcs.
+  1693	Wallace Computer Svcs.
+  1685	Allergan
+  1675	Metals USA
+  1672	EGL
+  1668	Allete
+  1661	Reliance Steel & Alum.
+  1660	DST Systems
+  1659	Viad
+  1659	Xilinx
+  1658	Raymond James Financial
+  1656	Newmont Mining
+  1655	EOG Resources
+  1655	Vishay Intertechnology
+  1653	Expeditors Intl. of Wash.
+  1651	DaVita
+  1646	D&K Healthcare Resources
+  1644	Applera
+  1633	UST
+  1629	Airgas
+  1629	Flowers Foods
+  1626	Applied Ind. Technologies
+  1620	Quintiles Transnational
+  1607	Tiffany
+  1603	Ciena
+  1602	PerkinElmer
+  1595	Great Lakes Chemical
+  1590	Millennium Chemicals
+  1587	Crane
+  1585	StanCorp Financial
+  1577	Maxim Integrated Products
+  1575	Agway
+  1572	Noble Affiliates
+  1570	Jo Ann Stores
+  1569	Lands' End
+  1564	Cooper Cameron
+  1559	Black Hills
+  1556	Stilwell Financial
+  1555	Perini
+  1555	Thomas & Betts
+  1553	Imperial Sugar
+  1549	MPS Group
+  1548	Champion Enterprises
+  1548	Granite Construction
+  1548	National Commerce Finan.
+  1547	Systemax
+  1546	Comfort Systems USA
+  1542	Greif Bros.
+  1540	Astoria Financial
+  1539	Di Giorgio
+  1539	Shaw Group
+  1537	Equifax
+  1536	ACT Manufacturing
+  1536	Legg Mason
+  1533	Level 3 Communications
+  1531	RGS Energy Group
+  1530	Universal Forest Prods.
+  1529	Unova
+  1529	World Fuel Services
+  1526	Arkansas Best
+  1523	GATX
+  1520	Lam Research
+  1518	Amkor Technology
+  1513	Pride International
+  1512	Del Monte Foods
+  1512	Polaris Industries
+  1507	Mercury General
+  1506	Martin Marietta Materials
+  1505	US Oncology
+  1504	Banknorth Group
+  1504	BMC Software
+  1501	Ferro
+  1492	Veritas Software  
+  1489	Arch Coal
+  1488	CDI
+  1486	GenCorp
+  1478	Hibernia Corp.
+  1473	Sierra Health Services
+  1472	Atmel
+  1464	AIMCO
+  1462	Great Plains Energy
+  1459	E.W. Scripps
+  1458	Banta
+  1453	Symbol Technologies
+  1448	TMP Worldwide
+  1445	Oshkosh Truck
+  1445	Unisource Energy
+  1442	Atmos Energy
+  1442	Rock-Tenn
+  1441	Teradyne
+  1439	American Water Works
+  1439	CSK Auto
+  1439	Questar
+  1438	CKE Restaurants
+  1433	Amer. Power Conversion
+  1432	Phillips Van Heusen
+  1430	Cadence Design Systems
+  1416	Sports Authority
+  1412	Pier 1 Imports
+  1408	Fairchild Semicond. Intl.
+  1406	Kemet
+  1404	Burlington Industries
+  1402	Dreyer's Grand Ice Cream
+  1401	DIMON
+  1400	Stewart & Stevenson Svcs.
+  1399	Tecumseh Products
+  1397	Markel
+  1397	Southwest Gas
+  1393	Landstar System
+  1391	Advantica
+  1388	Metro-Goldwyn-Mayer
+  1388	National Rural Utilities Coop.
+  1388	Trans World Entertnmnt.
+  1387	Cytec Industries
+  1385	Standard Pacific
+  1380	Hollywood Entertainment
+  1378	Gentiva Health Services
+  1372	American Eagle Outfitters
+  1372	OneAmerica Financial
+  1371	Nvidia
+  1368	Gemstar-TV Guide Intl.
+  1366	Acterna
+  1365	Abercrombie & Fitch
+  1365	Belo
+  1358	MGIC Investment
+  1353	Toro
+  1349	Knights of Columbus
+  1347	St. Jude Medical
+  1339	Novellus Systems
+  1339	Pro-Fac Cooperative
+  1333	IMS Health
+  1333	Provident Financial Group
+  1328	Gentek
+  1326	IT Group
+  1324	Carpenter Technology
+  1322	Electronic Arts
+  1322	Revlon
+  1320	Stein Mart
+  1319	Hub Group
+  1319	United Defense Industries
+  1312	Briggs & Stratton
+  1312	Hubbell
+  1312	Regis
+  1309	Dun & Bradstreet
+  1301	Petco Animal Supplies
+  1300	AnnTaylor
+  1300	Federated Mutual Ins.
+  1296	DQE
+  1296	First Natl. of Nebraska
+  1281	Pacific Century Finan.
+  1278	Deluxe
+  1277	Benchmark Electronics
+  1276	Amtran
+  1274	H.B. Fuller
+  1273	Men's Wearhouse
+  1272	Stewart Info. Services
+  1271	Olin
+  1271	Werner Enterprises
+  1270	Comverse Technology
+  1268	Audiovox
+  1268	Varco International
+  1267	Amica Mutual Insurance
+  1263	Milacron
+  1262	Intuit
+  1261	Kimball International
+  1259	XO Communications
+  1258	Domino's
+  1256	Ocean Energy
+  1254	Massey Energy
+  1252	Texas Industries
+  1250	Riverwood Holding
+  1245	EarthLink
+  1243	Ceridian
+  1241	Phar-Mor
+  1241	Union Central Life
+  1239	Foamex International
+  1239	Watsco
+  1238	CMGI
+  1235	Harleysville Mutual Ins.
+  1235	Pall
+  1235	Tektronix
+  1231	IDT
+  1231	Oglethorpe Power
+  1230	Adobe Systems
+  1226	Alleghany
+  1224	Genzyme
+  1223	MasTec
+  1221	Genuity
+  1219	North Fork Bancorp.
+  1217	Grey Global
+  1215	AMC Entertainment
+  1215	Ivax
+  1215	On Semiconductor
+  1213	Software Spectrum
+  1207	Viasystems Group
+  1206	Georgia Gulf
+  1205	Forest Laboratories
+  1205	Perot Systems
+  1203	Trump Hotels & Casino Resorts
+  1201	FelCor Lodging
+  1200	DPL
+  1199	Blyth
+  1199	International Game Technology
+  1198	TCF Financial Corp.
+  1197	Sealy
+  1196	Standard Register
+  1195	eMerge Interactive
+  1193	Goody's Family Clothing
+  1193	Handleman
+  1190	Alexander & Baldwin
+  1190	Daisytek International
+  1184	Timberland
+  1183	American Management Systems
+  1181	C.R. Bard
+  1181	PC Connection

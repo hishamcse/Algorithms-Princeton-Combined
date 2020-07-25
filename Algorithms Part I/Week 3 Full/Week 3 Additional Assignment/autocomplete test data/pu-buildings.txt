@@ -1,0 +1,167 @@
+166
+  8244	Nassau Hall
+  8244	Maclean House
+  8197	Stanhope Hall
+  8177	Palmer House
+  8164	West College
+  8163	Henry House
+  8155	Lowrie House
+  8151	Prospect House
+  8127	Chancellor Green
+  8123	Witherspoon Hall
+  8121	Murray Theater
+  8120	185 Nassau St.
+  8120	Edwards Hall
+  8115	2 Dickinson St.
+  8110	86 Olden St.
+  8110	106 Alexander St.
+  8110	116 Prospect Ave.
+  8110	Dod Hall
+  8109	Brown Hall
+  8109	Burr Hall
+  8108	Alexander Hall
+  8107	Clio Hall
+  8107	Whig Hall
+  8103	Blair Hall
+  8103	Buyers Hall
+  8103	East Pyne Hall
+  8100	Dodge Hall
+  8100	Little Hall
+  8096	48 University Place
+  8096	1879 Hall
+  8095	Class of 1886 Clubhouse
+  8095	FitzRandolph Gate
+  8094	Patton Hall
+  8094	Wright Hall
+  8093	McCosh Hall
+  8092	Frist Campus Center
+  8091	Campbell Hall
+  8091	Campus Club
+  8091	Guyot Hall
+  8090	Holder Hall
+  8089	Hamilton Hall
+  8089	Cannon Club
+  8088	Cuyler Hall
+  8087	Class of 1887 Boathouse
+  8087	Graduate College
+  8087	Wyman House
+  8086	Palmer Stadium
+  8084	Madison Hall
+  8083	Bendheim Center for Finance
+  8082	71 University Place
+  8079	91 Prospect Ave.
+  8078	McCormick Hall
+  8078	Pyne Hall
+  8077	Baker Rink
+  8077	Foulke Hall
+  8077	Henry Hall
+  8076	171 Broadmead St.
+  8076	200 Elm Drive
+  8076	Bobst Hall
+  8076	Eno Hall
+  8076	Forbes College
+  8075	McCosh Health Center
+  8074	Class of 1901 Hall
+  8074	Laughlin Hall
+  8073	Graduate College-North Court
+  8073	Green Hall
+  8073	Lockhart Hall
+  8072	5 Ivy Lane
+  8072	University Chapel
+  8071	20 Washington Road
+  8071	Class of 1903 Hall
+  8071	McCarter Theatre
+  8071	Walker Hall
+  8070	Dickinson Hall
+  8069	Jones Hall
+  8068	Joline Hall
+  8066	FitzRandolph Observatory
+  8060	201 Nassau St.
+  8054	Elementary Particles Laboratory
+  8053	Dillon Gymnasium
+  8052	Firestone Library
+  8051	130 University Place
+  8051	Architecture Laboratory
+  8051	Class of 1915 Hall
+  8048	Corwin Hall
+  8042	36 University Place
+  8040	Class of 1937 Hall
+  8040	Class of 1938 Hall
+  8040	Class of 1939 Hall
+  8040	Dodge-Osborn Hall
+  8040	Gauss Hall
+  8040	Von Neumann Hall
+  8039	Moffett Laboratory
+  8039	Wilcox Hall
+  8038	Engineering Quadrangle A-F Wings
+  8038	MacMillan Building
+  8037	Architecture Building
+  8037	Caldwell Field House
+  8037	Chilled Water Plant
+  8037	Cooling Towers
+  8037	New Graduate College
+  8037	Tennis Pavilion
+  8037	Woolworth Music Center
+  8035	Class of 1912 Pavilion
+  8035	New South Building
+  8035	Robertson Hall
+  8034	Art Museum
+  8034	Peyton Hall
+  8032	87 Prospect Ave.
+  8032	Fine Hall
+  8032	Jadwin Gymnasium
+  8032	Jadwin Hall
+  8029	Forbes College Annex
+  8027	Spelman Halls
+  8024	Mudd Manuscript Library
+  8021	Energy Research Laboratory
+  8021	Hoyt Laboratory
+  8017	Wu Hall
+  8016	Lenz Tennis Center
+  8014	Feinberg Hall
+  8014	Thomas Laboratory
+  8013	Class of 1927-Clapp Hall
+  8011	Computer Science Building
+  8010	DeNunzio Pool
+  8009	Bendheim Hall
+  8009	Fisher Hall (Prospect Avenue)
+  8009	North Garage
+  8007	Bowen Hall
+  8007	Center for Jewish Life
+  8007	EQuad J Wing
+  8007	Marx Hall
+  8007	Schultz Laboratory
+  8004	Class of 1952 Stadium
+  8004	Cogeneration Plant
+  8002	Dillon Court (East and West)
+  8002	McDonnell Hall
+  8002	Princeton Stadium
+  8002	Scully Hall
+  8001	West Garage
+  8000	Shea Rowing Center
+  8000	Wallace Hall
+  7999	Friend Center
+  7997	Icahn Laboratory
+  7997	Berlind Theatre
+  7996	Bloomberg Hall
+  7996	Scheide Caldwell House
+  7993	Baker Hall
+  7993	Class of 1981 Hall
+  7993	Community Hall
+  7993	Fisher Hall (Whitman College)
+  7993	Hargadon Hall
+  7993	Lauritzen Hall
+  7993	Murley-Pivirotto Family Tower
+  7993	Wendell Hall
+  7992	Lewis Library
+  7992	Roberts Stadium
+  7992	Sherrerd Hall
+  7991	Fields Center
+  7991	Bogle Hall
+  7991	Class of 1967 Hall
+  7991	Class of 1976 Hall
+  7991	Wilf Hall
+  7991	Yoseloff Hall
+  7990	Frick Chemistry Laboratory
+  7990	Streicker Bridge
+  7989	Cordish Family Pavilion

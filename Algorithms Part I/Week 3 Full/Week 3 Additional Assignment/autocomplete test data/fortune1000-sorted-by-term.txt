@@ -1,0 +1,1001 @@
+1000
+  3010	3Com
+ 16285	Abbott Laboratories
+  1365	Abercrombie & Fitch
+  1950	ABM Industries
+  2894	Ace Hardware
+  1366	Acterna
+  1536	ACT Manufacturing
+  4717	Adams Resources & Engy.
+  2403	ADC Telecommunications
+  3435	Adelphia Communications
+  4373	Administaff
+  1230	Adobe Systems
+  2430	Adolph Coors
+  2518	Advance Auto Parts
+  3892	Advanced Micro Devices
+  7024	AdvancePCS
+  1391	Advantica
+  9614	AES
+ 25191	Aetna
+  2064	Affiliated Computer Svcs.
+  9598	AFLAC
+  2542	AGCO
+  2839	A.G. Edwards
+  9161	Agilent Technologies
+  1575	Agway
+  3258	Aid Assn. for Lutherans
+  1464	AIMCO
+  3211	Airborne
+  1629	Airgas
+  5723	Air Products & Chem.
+  3994	AK Steel Holding
+  2141	Alaska Air Group
+  2494	Alberto-Culver
+ 37931	Albertson's
+ 22859	Alcoa
+  1190	Alexander & Baldwin
+  1226	Alleghany
+ 10379	Allegheny Energy
+  2128	Allegheny Technologies
+  1685	Allergan
+  1668	Allete
+  2777	Alliant Energy
+  5565	Allied Waste Industries
+  3312	Allmerica Financial
+ 28865	Allstate
+  7599	Alltel
+  1887	Alpine Group
+  3122	Amazon.Com
+  1215	AMC Entertainment
+ 13413	Amerada Hess
+  1814	Amerco
+  4506	Ameren
+  3107	American Axle & Mfg.
+  1372	American Eagle Outfitters
+ 61257	American Electric Power
+ 22582	American Express
+  5109	American Family Ins. Grp.
+  3948	American Financial Grp.
+  2519	American Greetings
+ 62402	American Intl. Group
+  1183	American Management Systems
+  2134	American National Ins.
+  7465	American Standard
+  1439	American Water Works
+  2066	America West Holdings
+ 15823	AmerisourceBergen
+  1433	Amer. Power Conversion
+  3648	Ames Dept. Stores
+  4016	Amgen
+  1267	Amica Mutual Insurance
+  1518	Amkor Technology
+ 18963	AMR
+  3383	AmSouth Bancorp.
+  1276	Amtran
+  8369	Anadarko Petroleum
+  2277	Analog Devices
+ 12912	Anheuser-Busch
+  3144	Anixter International
+  1300	AnnTaylor
+ 10445	Anthem
+ 38234	AOL Time Warner
+  7676	Aon
+  2777	Apache
+  5363	Apple Computer
+  1644	Applera
+  1626	Applied Ind. Technologies
+  7343	Applied Materials
+ 40377	Aquila
+  7789	Aramark
+  1489	Arch Coal
+ 20051	Archer Daniels Midland
+  1526	Arkansas Best
+  3135	Armstrong Holdings
+ 10128	Arrow Electronics
+  6805	ArvinMeritor
+  8547	Ashland
+  1540	Astoria Financial
+  1472	Atmel
+  1442	Atmos Energy
+ 59142	AT&T
+  1268	Audiovox
+  3991	Autoliv
+  7018	Automatic Data Proc.
+ 19989	AutoNation
+  3016	Auto-Owners Insurance
+  4818	AutoZone
+  6793	Avaya
+  3803	Avery Dennison
+  6021	Avista
+ 12814	Avnet
+  5995	Avon Products
+  5382	Baker Hughes
+  3686	Ball
+  1504	Banknorth Group
+ 52641	Bank of America Corp.
+  7192	Bank of New York Co.
+ 24527	Bank One Corp.
+  1458	Banta
+  4870	Barnes & Noble
+  1712	Bausch & Lomb
+  7663	Baxter International
+  6228	BB&T Corp.
+  8701	Bear Stearns
+  1805	Beazer Homes USA
+  1984	Beckman Coulter
+  3754	Becton Dickinson
+  2397	Bed Bath & Beyond
+  2278	Belk
+  2007	Bell Microproducts
+ 24130	BellSouth
+  1365	Belo
+  2293	Bemis
+  1277	Benchmark Electronics
+ 37668	Berkshire Hathaway
+ 15327	Best Buy
+  3334	Bethlehem Steel
+  2713	Beverly Enterprises
+  3433	Big Lots
+  2234	BJ Services
+  5280	BJ's Wholesale Club
+  4333	Black & Decker
+  1559	Black Hills
+  1199	Blyth
+  1504	BMC Software
+ 58198	Boeing
+  7422	Boise Cascade
+  3388	Borders Group
+  2352	BorgWarner
+  2673	Boston Scientific
+  2449	Bowater
+  1312	Briggs & Stratton
+  1825	Brightpoint
+  2474	Brinker International
+ 21717	Bristol-Myers Squibb
+  2351	Broadwing
+  1924	Brown-Forman
+  1756	Brown Shoe
+  3684	Brunswick
+  2234	Budget Group
+  2429	Burlington Coat Factory
+  1404	Burlington Industries
+  9208	Burlington No. Santa Fe
+  3326	Burlington Resources
+  4405	Cablevision Systems
+  1698	Cabot
+  1430	Cadence Design Systems
+  7590	Calpine
+  6664	Campbell Soup
+  7254	Capital One Financial
+ 47948	Cardinal Health
+  5614	Caremark Rx
+  1850	Carlisle
+  1324	Carpenter Technology
+  1928	Casey's General Stores
+ 20450	Caterpillar
+  1964	CBRL Group
+  1488	CDI
+  3962	CDW Computer Centers
+  2434	CellStar
+  8950	Cendant
+  7875	Cenex Harvest States
+  6711	Centex
+  2118	CenturyTel
+  1243	Ceridian
+  1923	CH2M Hill
+  1548	Champion Enterprises
+  5281	Charles Schwab
+  1994	Charming Shoppes
+  3953	Charter Communications
+  2852	Charter One Financial
+ 99699	ChevronTexaco
+  2242	Chiquita Brands Intl.
+  3090	C.H. Robinson Worldwide
+  7600	Chubb
+  1603	Ciena
+ 19115	Cigna
+  2561	Cincinnati Financial
+ 12923	Cinergy
+  2161	Cintas
+ 12959	Circuit City Stores
+ 22293	Cisco Systems
+112022	Citigroup
+  2574	Citizens Communications
+  1438	CKE Restaurants
+  7970	Clear Channel Commun.
+  3903	Clorox
+  1238	CMGI
+ 12977	CMS Energy
+  4874	CNF
+ 20092	Coca-Cola
+ 15700	Coca-Cola Enterprises
+  9428	Colgate-Palmolive
+  1823	Collins & Aikman
+  9674	Comcast
+  3202	Comdisco
+  4197	Comerica
+  1546	Comfort Systems USA
+  2441	Commercial Metals
+  1694	Community Health Sys.
+ 33554	Compaq Computer
+  1894	Compass Bancshares
+  4198	Computer Assoc. Intl.
+ 10524	Computer Sciences
+  2010	Compuware
+  1270	Comverse Technology
+ 27194	ConAgra
+  1707	Concord EFS
+  5836	Conectiv
+ 32795	Conoco
+  8108	Conseco
+  2238	Consol. Freightways
+  9634	Consolidated Edison
+  2397	Constellation Brands
+  3928	Constellation Energy
+  8969	Continental Airlines
+  2321	Convergys
+  1564	Cooper Cameron
+  4210	Cooper Industries
+  3155	Cooper Tire & Rubber
+  3425	Core-Mark International
+  6272	Corning
+  1887	Corn Products Intl.
+ 34797	Costco Wholesale
+  4819	Countrywide Credit
+  3147	Coventry Health Care
+  4059	Cox Communications
+  1587	Crane
+  1181	C.R. Bard
+  2719	Crompton
+  7187	Crown Cork & Seal
+  1439	CSK Auto
+  8110	CSX
+  5681	Cummins
+  2109	CUNA Mutual Group
+ 22241	CVS
+  1387	Cytec Industries
+  1190	Daisytek International
+ 10469	Dana
+  3782	Danaher
+  4021	Darden Restaurants
+  1651	DaVita
+  6230	Dean Foods
+ 13293	Deere
+ 31168	Dell Computer
+  1512	Del Monte Foods
+ 26088	Delphi
+ 13879	Delta Air Lines
+  1278	Deluxe
+  3075	Devon Energy
+  1694	Dial
+  1760	Diebold
+  1539	Di Giorgio
+  8388	Dillard's
+  1401	DIMON
+  1646	D&K Healthcare Resources
+  4688	Dole Food
+  5323	Dollar General
+  1987	Dollar Tree Stores
+ 10558	Dominion Resources
+  1258	Domino's
+  4528	Dover
+ 27805	Dow Chemical
+  1773	Dow Jones
+  1200	DPL
+  1296	DQE
+  1402	Dreyer's Grand Ice Cream
+  4456	D.R. Horton
+  1660	DST Systems
+  7849	DTE Energy
+ 59503	Duke Energy
+  1309	Dun & Bradstreet
+ 25370	DuPont de Nemours (E.I.)
+  2477	Dura Automotive Systems
+  1889	DynCorp
+ 42242	Dynegy
+  2582	Earthgrains
+  1245	EarthLink
+  5384	Eastman Chemical
+ 13234	Eastman Kodak
+  7299	Eaton
+  4001	Echostar Communications
+  2355	Ecolab
+ 12184	Edison International
+  1672	EGL
+  1322	Electronic Arts
+ 21543	Electronic Data Systems
+ 11543	Eli Lilly
+ 57475	El Paso
+  7091	EMC
+  3420	Emcor Group
+  1195	eMerge Interactive
+ 15480	Emerson Electric
+  3981	Encompass Services
+  1694	Energizer Holdings
+  3760	Energy East
+  5097	Engelhard
+138718	Enron
+  9621	Entergy
+  3180	Enterprise Products
+  1655	EOG Resources
+  1537	Equifax
+  1765	Equitable Resources
+  3130	Equity Office Properties
+  2171	Equity Res. Properties
+  2394	Erie Insurance Group
+  4608	Estee Lauder
+  2062	E*Trade Group
+  1459	E.W. Scripps
+ 15140	Exelon
+  2432	Exide Technologies
+  1653	Expeditors Intl. of Wash.
+  9329	Express Scripts
+191581	Exxon Mobil
+  1408	Fairchild Semicond. Intl.
+  3665	Family Dollar Stores
+ 50803	Fannie Mae
+ 11763	Farmland Industries
+  5457	Federal-Mogul
+ 16895	Federated Dept. Stores
+  1300	Federated Mutual Ins.
+ 19629	FedEx
+  1201	FelCor Lodging
+  1501	Ferro
+  3874	Fidelity Natl. Financial
+  6506	Fifth Third Bancorp
+  3751	First American Corp.
+  6451	First Data
+  7999	FirstEnergy
+  1296	First Natl. of Nebraska
+  2459	First Tenn. Natl. Corp.
+  1891	Fiserv
+  2880	Fisher Scientific Intl.
+ 19190	FleetBoston
+  2532	Fleetwood Enterprises
+ 15628	Fleming
+  1629	Flowers Foods
+  1918	Flowserve
+  8972	Fluor
+  3871	FMC
+  1239	Foamex International
+  4379	Foot Locker
+  2461	Footstar
+162412	Ford Motor
+  1205	Forest Laboratories
+  5318	Fortune Brands
+  3397	Foster Wheeler
+  8475	FPL Group
+  2355	Franklin Resources
+ 35523	Freddie Mac
+  1839	Freeport-McMoRan C&G
+  1888	Frontier Oil
+  1891	Furniture Brands Intl.
+  6344	Gannett
+ 13848	Gap
+  6080	Gateway
+  1523	GATX
+  1368	Gemstar-TV Guide Intl.
+  1486	GenCorp
+  2004	General Cable
+ 12163	General Dynamics
+125913	General Electric
+  7078	General Mills
+177260	General Motors
+  2570	Genesis Health Ventures
+  1328	Gentek
+  1378	Gentiva Health Services
+  8221	Genuine Parts
+  1221	Genuity
+  1224	Genzyme
+  1206	Georgia Gulf
+ 25309	Georgia-Pacific
+  8084	Gillette
+  4320	Golden State Bancorp
+  4446	Golden West Financial
+  1811	Gold Kist
+ 31138	Goldman Sachs Group
+  5013	Goodrich
+ 14147	Goodyear Tire & Rubber
+  1193	Goody's Family Clothing
+  1548	Granite Construction
+  4829	Graybar Electric
+  1595	Great Lakes Chemical
+  1462	Great Plains Energy
+  1722	Greenpoint Financial
+  1542	Greif Bros.
+  1217	Grey Global
+  3996	Group 1 Automotive
+  8907	Guardian Life of America
+  2708	Guidant
+ 13405	Halliburton
+  1193	Handleman
+  3363	Harley-Davidson
+  1235	Harleysville Mutual Ins.
+  1717	Harman Intl. Industries
+  3709	Harrah's Entertainment
+  1955	Harris
+  2109	Harsco
+ 15147	Hartford Fin. Services
+  2856	Hasbro
+  1732	Hawaiian Elec. Inds.
+  1274	H.B. Fuller
+ 17953	HCA
+  1880	Health Management Associates
+ 10065	Health Net
+  4381	HEALTHSOUTH
+  2558	Henry Schein
+  2620	Hercules
+  2236	Herman Miller
+  4557	Hershey Foods
+ 45226	Hewlett-Packard
+  1478	Hibernia Corp.
+  2107	Hillenbrand Industries
+  3050	Hilton Hotels
+  9430	H.J. Heinz
+  1380	Hollywood Entertainment
+ 53553	Home Depot
+ 23652	Honeywell Intl.
+  1792	Hon Industries
+  4124	Hormel Foods
+  3754	Host Marriott
+ 13916	Household International
+  1742	Hovnanian Enterprises
+  3002	H&R Block
+  1312	Hubbell
+  1319	Hub Group
+  3038	Hughes Supply
+ 10195	Humana
+  2448	Huntington Bancshares
+  5648	Idacorp
+  1231	IDT
+  5274	Ikon Office Solutions
+  9698	Illinois Tool Works
+  2714	IMC Global
+  1553	Imperial Sugar
+  1333	IMS Health
+  1953	Ingles Markets
+ 25187	Ingram Micro
+  2082	Insight Enterprises
+  1693	Integrated Electrical Svcs.
+ 26539	Intel
+  1199	International Game Technology
+ 26363	International Paper
+  6727	Interpublic Group
+  3497	Interstate Bakeries
+ 85866	Intl. Business Machines
+  1844	Intl. Flavors & Frag.
+  2525	Intl. Multifoods
+  1262	Intuit
+  1326	IT Group
+  4676	ITT Industries
+  1215	Ivax
+  4331	Jabil Circuit
+  1834	Jack in the Box
+  3957	Jacobs Engineering Grp.
+  2100	J.B. Hunt Transport Svcs.
+ 32004	J.C. Penney
+  3233	JDS Uniphase
+  3332	Jefferson-Pilot
+  1570	Jo Ann Stores
+  9361	John Hancock Finan. Svcs.
+ 18427	Johnson Controls
+ 33004	Johnson & Johnson
+  4073	Jones Apparel Group
+ 50429	J.P. Morgan Chase
+  4647	KB Home
+  8853	Kellogg
+  2282	Kellwood
+  4257	Kelly Services
+  1406	Kemet
+  1808	Kennametal
+  3638	Kerr-McGee
+  7352	KeyCorp
+  6900	KeySpan
+  1261	Kimball International
+ 14524	Kimberly-Clark
+  3081	Kindred Healthcare
+  2104	Kla-Tencor
+ 36910	Kmart
+  2900	Knight-Ridder
+  1349	Knights of Columbus
+  7489	Kohl's
+  2856	KPMG Consulting
+ 50098	Kroger
+  2347	L-3 Communications
+  2200	Lab. Corp. of Amer.
+  1520	Lam Research
+  2171	LandAmerica Financial
+  1569	Lands' End
+  1393	Landstar System
+  2256	La-Z-Boy
+ 13625	Lear
+  4114	Leggett & Platt
+  1536	Legg Mason
+ 22392	Lehman Brothers Hldgs.
+  6029	Lennar
+  3120	Lennox International
+  1533	Level 3 Communications
+  4259	Levi Strauss
+  4143	Lexmark International
+ 14256	Liberty Mutual Group
+  9363	Limited
+  6411	Lincoln National
+  1824	Linens 'n Things
+  1873	Lithia Motors
+  3449	Liz Claiborne
+ 24793	Lockheed Martin
+ 18799	Loews
+  4305	Longs Drug Stores
+  2360	Louisiana-Pacific
+ 22111	Lowe's
+  1785	LSI Logic
+  3956	LTV
+  1845	Lubrizol
+ 25132	Lucent Technologies
+  2716	Lutheran Brotherhood
+  3226	Lyondell Chemical
+  1870	Magellan Health Svcs.
+  2259	Mail-Well
+  1808	MAMSI
+  2462	Mandalay Resort Group
+  2694	Manor Care
+ 10484	Manpower
+ 35041	Marathon Oil
+  2087	Mariner Post-Acute Ntwk.
+  1397	Markel
+ 10152	Marriott International
+  2712	Marshall & Ilsley Corp.
+  9943	Marsh & McLennan
+  1877	Marsh Supermarkets
+  1506	Martin Marietta Materials
+  8358	Masco
+  1254	Massey Energy
+ 19340	Mass. Mutual Life Ins.
+  1223	MasTec
+  4804	Mattel
+  1577	Maxim Integrated Products
+  3797	Maxtor
+  2158	Maxxam
+ 14175	May Dept. Stores
+  4564	Maytag
+ 10145	MBNA
+  2372	McCormick
+ 14870	McDonald's
+  4646	McGraw-Hill
+ 42010	McKesson
+  1811	McLeodUSA
+  2126	MDC Holdings
+  2224	MDU Resources Group
+  3984	MeadWestvaco
+  5552	Medtronic
+  4055	Mellon Financial Corp.
+  1273	Men's Wearhouse
+ 47716	Merck
+  1507	Mercury General
+ 38793	Merrill Lynch
+  1998	Metaldyne
+  1675	Metals USA
+ 31928	MetLife
+  1851	Metris
+  1388	Metro-Goldwyn-Mayer
+  1358	MGIC Investment
+  4010	MGM Mirage
+  2531	Michaels Stores
+  4516	Micron Technology
+ 25296	Microsoft
+  1263	Milacron
+  1590	Millennium Chemicals
+  1801	Minnesota Life
+ 16079	Minnesota Mining & Mfg.
+ 31502	Mirant
+  3446	Mohawk Industries
+  2366	Molex
+  2104	MONY Group
+ 43727	Morgan Stanley
+ 30004	Motorola
+  1549	MPS Group
+  2579	M&T Bank Corp.
+  4479	Murphy Oil
+  4328	Mutual of Omaha Ins.
+  2225	Nabors Industries
+  2638	Nacco Industries
+  4107	Nash Finch
+  9093	National City Corp.
+  1548	National Commerce Finan.
+  2100	National Fuel Gas
+  1748	National Oilwell
+  1388	National Rural Utilities Coop.
+  2113	National Semiconductor
+ 15118	Nationwide
+  2546	Natl. Service Industries
+  6722	Navistar International
+  5917	NCR
+  3016	Neiman Marcus
+  6909	Newell Rubbermaid
+  2048	New Jersey Resources
+  1656	Newmont Mining
+ 25678	New York Life Insurance
+  3043	New York Times
+  7574	Nextel Communications
+  2544	Nicor
+  9489	Nike
+  9565	NiSource
+  1572	Noble Affiliates
+  5634	Nordstrom
+  6170	Norfolk Southern
+  2081	Nortek
+  6874	Northeast Utilities
+  3262	Northern Trust Corp.
+  1219	North Fork Bancorp.
+ 13558	Northrop Grumman
+  4238	NorthWestern
+ 16212	Northwestern Mutual
+  1339	Novellus Systems
+  3192	NSTAR
+  3755	NTL
+  4139	Nucor
+  1371	Nvidia
+  2624	NVR
+  9905	NWA
+ 14126	Occidental Petroleum
+  1256	Ocean Energy
+ 11154	Office Depot
+  4636	OfficeMax
+  3182	OGE Energy
+  1231	Oglethorpe Power
+  1902	Ohio Casualty
+  2373	Old Republic Intl.
+  1271	Olin
+  2367	OM Group
+  2159	Omnicare
+  6889	Omnicom Group
+  1372	OneAmerica Financial
+  6803	ONEOK
+  1215	On Semiconductor
+ 10860	Oracle
+  1445	Oshkosh Truck
+  2127	Outback Steakhouse
+  4762	Owens Corning
+  6013	Owens-Illinois
+  3815	Owens & Minor
+  4421	Oxford Health Plans
+  6089	Paccar
+ 11844	PacifiCare Health Sys.
+  1281	Pacific Century Finan.
+  3735	Pacific LifeCorp
+  1790	Packaging Corp. of America
+  2812	Pactiv
+  1235	Pall
+  2643	Pantry
+  5980	Parker Hannifin
+  4631	Park Place Entertainment
+  4017	Pathmark Stores
+  1736	Paychex
+  2914	Payless Shoesource
+  1181	PC Connection
+  2481	Penn Traffic
+  2315	Pennzoil-Quaker State
+  2806	Pentair
+  2270	Peoples Energy
+  2073	PeopleSoft
+  2184	Pep Boys
+  2503	PEPCO
+  3171	PepsiAmericas
+  8443	Pepsi Bottling
+ 26935	PepsiCo
+  3237	Performance Food Group
+  1555	Perini
+  1602	PerkinElmer
+  1205	Perot Systems
+  1301	Petco Animal Supplies
+  3871	Peter Kiewit Sons'
+  2501	PETsMART
+ 32259	Pfizer
+ 22959	PG&E Corp.
+ 19299	Pharmacia
+  1241	Phar-Mor
+  4002	Phelps Dodge
+ 72944	Philip Morris
+ 24189	Phillips Petroleum
+  1432	Phillips Van Heusen
+  2422	Phoenix Companies
+  1412	Pier 1 Imports
+  2215	Pilgrim's Pride
+  4551	Pinnacle West Capital
+  2901	Pioneer-Standard Elec.
+  4691	Pitney Bowes
+  4008	Pittston
+  6868	Plains All Amer. Pipeline
+  6921	PNC Financial Svcs. Group
+  2352	PNM Resources
+  1512	Polaris Industries
+  2226	Polo Ralph Lauren
+  2655	PolyOne
+  2561	Popular
+  1752	Potlatch
+  8169	PPG Industries
+  5725	PPL
+  5158	Praxair
+  2326	Precision Castparts
+  6418	Premcor
+  1513	Pride International
+  1742	Primedia
+  8818	Principal Financial
+ 39244	Procter & Gamble
+  1339	Pro-Fac Cooperative
+  8462	Progress Energy
+  7488	Progressive
+  1965	Protective Life
+  1333	Provident Financial Group
+  5530	Providian Financial
+ 27177	Prudential Financial
+  1815	PSS World Medical
+  9815	Public Svc. Enter. Group
+ 15284	Publix Super Markets
+  3374	Puget Energy
+  5382	Pulte Homes
+  2680	Qualcomm
+  2015	Quanta Services
+  4452	Quantum
+  1439	Questar
+  3628	Quest Diagnostics
+  1620	Quintiles Transnational
+ 19743	Qwest Communications
+  4776	RadioShack
+  1658	Raymond James Financial
+ 16867	Raytheon
+  2518	Reader's Digest Assn.
+  2993	Reebok International
+  4038	Regions Financial
+  1312	Regis
+  1661	Reliance Steel & Alum.
+ 46226	Reliant Energy
+  1809	Rent-A-Center
+  2258	Republic Services
+  1322	Revlon
+  1531	RGS Energy Group
+ 15297	Rite Aid
+  1250	Riverwood Holding
+  8585	R.J. Reynolds Tobacco
+  2792	Roadway
+  2453	Robert Half Intl.
+  1442	Rock-Tenn
+  4323	Rockwell Automation
+  2820	Rockwell Collins
+  5896	Rohm & Haas
+  2987	Ross Stores
+  3452	Roundy's
+  2008	RPM
+  5298	R.R. Donnelley & Sons
+  2743	Ruddick
+  5006	Ryder System
+  2244	Ryerson Tull
+  2742	Ryland Group
+  2473	Sabre Holdings
+  6953	Safeco
+  1926	Safeguard Scientifics
+ 34301	Safeway
+  6071	Saks
+  4054	Sanmina-SCI
+ 17747	Sara Lee
+ 45908	SBC Communications
+  3451	SCANA
+  9802	Schering-Plough
+  1962	Scholastic
+  6163	Science Applications Intl.
+  2512	Scientific-Atlanta
+  8714	SCI Systems
+  1748	Scotts
+  1805	Seaboard
+  3068	Sealed Air
+  1197	Sealy
+ 41078	Sears Roebuck
+  8029	Sempra Energy
+  1889	Sentry Insurance Group
+  1756	Sequa
+  2510	Service Corp. Intl.
+  5811	ServiceMaster
+  1539	Shaw Group
+  5066	Sherwin-Williams
+  3387	Shopko Stores
+  2048	Siebel Systems
+  1473	Sierra Health Services
+  4612	Sierra Pacific Resources
+  1941	Silgan Holdings
+  1855	Silicon Graphics
+  2049	Simon Property Group
+  5900	Smithfield Foods
+  3551	Smith International
+  8377	Smurfit-Stone Container
+  2096	Snap-On
+  1213	Software Spectrum
+ 18692	Solectron
+  2817	Solutia
+  6337	Sonic Automotive
+  2606	Sonoco Products
+ 10155	Southern
+  1739	Southern States Coop.
+  1933	Southern Union
+  3742	SouthTrust Corp.
+  5555	Southwest Airlines
+  1397	Southwest Gas
+  2649	Sovereign Bancorp
+  3520	Spartan Stores
+  2713	Spherion
+  1416	Sports Authority
+ 26071	Sprint
+  4114	SPX
+  3180	Staff Leasing
+  1585	StanCorp Financial
+  1385	Standard Pacific
+  1196	Standard Register
+  2624	Stanley Works
+ 10744	Staples
+  2649	Starbucks
+  3967	Starwood Hotels & Rsrts.
+ 46705	State Farm Insurance
+  2574	Stater Bros. Holdings
+  5637	State St. Corp.
+  3886	Steelcase
+  1320	Stein Mart
+  1272	Stewart Info. Services
+  1400	Stewart & Stevenson Svcs.
+  1556	Stilwell Financial
+  1347	St. Jude Medical
+  2045	Storage Technology
+  8943	St. Paul Cos.
+  2602	Stryker
+  1929	SunGard Data Systems
+  2122	Sun Healthcare Group
+ 18250	Sun Microsystems
+ 12402	Sunoco
+  8435	SunTrust Banks
+ 23194	Supervalu
+  2112	Swift Transportation
+  1453	Symbol Technologies
+  2069	Synovus Financial Corp.
+ 21785	Sysco
+  1547	Systemax
+ 39888	Target
+  1198	TCF Financial Corp.
+ 17198	Tech Data
+  2649	TECO Energy
+  1399	Tecumseh Products
+  1235	Tektronix
+  1905	Teleflex
+  2589	Telephone & Data Sys.
+  2200	Tellabs
+  4172	Temple-Inland
+ 12053	Tenet Healthcare
+  3364	Tenneco Automotive
+  1441	Teradyne
+  1813	Terex
+  5218	Tesoro Petroleum
+  1252	Texas Industries
+  8201	Texas Instruments
+ 12321	Textron
+  2847	Thermo Electron
+  1555	Thomas & Betts
+ 24231	TIAA-CREF
+  1607	Tiffany
+  1184	Timberland
+  2447	Timken
+ 10709	TJX
+  1448	TMP Worldwide
+  2230	Toll Brothers
+  2707	Torchmark
+  1353	Toro
+  2467	Tower Automotive
+ 11019	Toys `R` Us
+  5223	TransMontaigne
+  2820	Transocean Sedco Forex
+  1388	Trans World Entertnmnt.
+  1935	TravelCenters of America
+  2670	Triad Hospitals
+  5253	Tribune
+  6953	Tricon Global Restrnts.
+  2975	Trigon Healthcare
+  1904	Trinity Industries
+  1203	Trump Hotels & Casino Resorts
+  2909	TruServ
+ 16383	TRW
+ 27927	TXU
+ 10751	Tyson Foods
+ 16138	UAL
+  2468	UGI
+  2930	Unified Western Grocers
+  1241	Union Central Life
+ 11973	Union Pacific
+  3144	Union Planters Corp.
+  1445	Unisource Energy
+  6018	Unisys
+  6221	United Auto Group
+  1319	United Defense Industries
+ 23454	UnitedHealth Group
+ 30646	United Parcel Service
+  2887	United Rentals
+  3926	United Stationers
+ 27897	United Technologies
+  2534	Unitrin
+  3018	Universal
+  1530	Universal Forest Prods.
+  2841	Universal Health Svcs.
+  6752	Unocal
+  1529	Unova
+  9435	UnumProvident
+  2319	URS
+  8971	USAA
+  3515	USA Education
+  8288	US Airways Group
+  5285	USA Networks
+ 16443	U.S. Bancorp
+  2459	USFreightways
+  3296	USG
+  2453	U.S. Industries
+  1505	US Oncology
+  1633	UST
+ 14988	Valero Energy
+  1921	Valspar
+  2314	Value City
+  1268	Varco International
+  2170	Vectren
+  1492	Veritas Software  
+ 67190	Verizon Communications
+  5519	VF
+ 23223	Viacom
+  1659	Viad
+  1207	Viasystems Group
+  1655	Vishay Intertechnology
+ 17843	Visteon
+  2001	Volt Info. Sciences
+  3019	Vulcan Materials
+ 22396	Wachovia Corp.
+  2809	Wackenhut
+ 24623	Walgreen
+  1693	Wallace Computer Svcs.
+219812	Wal-Mart Stores
+ 25269	Walt Disney
+  1922	Walter Industries
+ 17692	Washington Mutual
+  2417	Washington Post
+ 11322	Waste Management
+  1239	Watsco
+  2329	Weatherford Intl.
+  1988	Weis Markets
+ 12429	WellPoint Health Netwks.
+ 26891	Wells Fargo
+  2391	Wendy's International
+  1271	Werner Enterprises
+  3658	Wesco International
+  1954	Western Digital
+  3355	Western Gas Resources
+  2186	Western Resources
+  1765	WestPoint Stevens
+ 14545	Weyerhaeuser
+  1940	WGL Holdings
+ 10343	Whirlpool
+  2272	Whole Foods Market
+  4454	Willamette Industries
+ 11055	Williams
+  2096	Williams-Sonoma
+ 12903	Winn-Dixie Stores
+  3929	Wisconsin Energy
+  2430	Wm. Wrigley Jr.
+ 35179	WorldCom
+  1529	World Fuel Services
+  1826	Worthington Industries
+  2676	WPS Resources
+  1942	W.R. Berkley
+  1757	W.R. Grace
+  4754	W.W. Grainger
+ 14129	Wyeth
+  2105	Wyndham International
+ 15028	Xcel Energy
+ 16502	Xerox
+  1659	Xilinx
+  1259	XO Communications
+  3277	Yellow
+  3931	York International
+  2068	Zale
+  2011	Zions Bancorp
