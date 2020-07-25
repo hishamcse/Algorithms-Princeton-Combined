@@ -10,4 +10,28 @@ Create a data structure that efficiently supports the stack operations (push and
 
 ##### Question 3
 #### Java generics. <br />
-Explain why Java prohibits generic array creation.
+Explain why Java prohibits generic array creation. <br /><br /><br />
+
+
+### Interview Questions: Elementary Sorts (ungraded)
+TOTAL POINTS 3
+##### Question 1
+#### Intersection of two sets. <br /> 
+Given two arrays a[] and b[], each containing nn distinct 2D points in the plane, design a subquadratic algorithm to count the number of points that are contained both in array a[] and array b[]. <br /><br />
+
+##### Question 2
+#### Permutation. <br />
+Given two integer arrays of size n, design a subquadratic algorithm to determine whether one is a permutation of the other. That is, do they contain exactly the same entries but, possibly, in a different order. <br /><br />
+
+##### Question 3
+#### Dutch national flag. <br />
+Given an array of n buckets, each containing a red, white, or blue pebble, sort them by color. The allowed operations are: <br />
+
+ * swap(i, j) :  swap the pebble in bucket ii with the pebble in bucket j. <br />
+ * color(i) :  determine the color of the pebble in bucket i. <br />
+ 
+The performance requirements are as follows: <br />
+
+ * At most nn calls to color(). <br />
+ * At most nn calls to swap(). <br />
+ * Constant extra space. <br />
