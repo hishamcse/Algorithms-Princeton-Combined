@@ -15,7 +15,7 @@ For example, if one of the connected components is {1,2,6,9}, then the find() me
 
 ##### Question 3
 #### Successor with delete. <br />
-Given a set of nn integers S={0,1,...,n−1} and a sequence of requests of the following form: <br />
+Given a set of n integers S={0,1,...,n−1} and a sequence of requests of the following form: <br />
    * Remove x from S  <br />
    * Find the successor of x: the smallest y in S such that y≥x.  <br />
    
