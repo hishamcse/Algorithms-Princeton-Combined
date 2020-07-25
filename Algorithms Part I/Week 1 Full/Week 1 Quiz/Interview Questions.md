@@ -45,4 +45,4 @@ Version 1:  ~1lgn eggs and ∼1lgn tosses. <br />
 Version 1:  ~1lgn eggs and ∼1lgn tosses. <br />
 Version 2:  ∼lgT eggs and ∼2lgT tosses. <br />
 Version 3:  2 eggs and ~2sqrt(n) tosses. <br />
-Version 4:  2 eggs and ≤ csqrt(T) tosses for some fixed constant cc.
+Version 4:  2 eggs and ≤ csqrt(T) tosses for some fixed constant c.
