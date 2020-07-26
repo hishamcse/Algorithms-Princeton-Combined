@@ -39,9 +39,9 @@ This repository will contain all the materials, algorithms implementation, assig
         * SortingUsingCustomDatatype
         * Some Visualization Code 
  #### Assignment: <br />
-   Queues([Specification](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php))
+   [Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
  #### Quiz:
-   [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
