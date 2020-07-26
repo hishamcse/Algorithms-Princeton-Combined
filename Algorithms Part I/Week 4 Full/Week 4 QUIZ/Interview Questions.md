@@ -22,8 +22,8 @@ TOTAL POINTS 4
 ##### Question 1
 #### Java autoboxing and equals(). <br/>
 Consider two double values a and b and their corresponding Double values x and y. <br/>
-	* Find values such that (a==b) is true but x.equals(y) is false. <br/>
- *	Find values such (a==b) is false but x.equals(y) is true. <br/><br/>
+ * Find values such that (a==b) is true but x.equals(y) is false. <br/>
+ * Find values such (a==b) is false but x.equals(y) is true. <br/><br/>
 
 ##### Question 2
 #### Check if a binary tree is a BST. <br/>
