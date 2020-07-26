@@ -90,7 +90,7 @@ This repository will contain all the materials, algorithms implementation, assig
  #### Assignment: <br />
   [Slider Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)(Using A* search)
  #### Assignment Enrichment:
-  Though I haven't implemented it yet.But I have added some resources.Slider puzzle can be solved using IDA* algorithm which is much faster
+  Slider puzzle can be solved using IDA* algorithm which is much faster.Though I haven't implemented it yet.But I have added some resources.
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
   
