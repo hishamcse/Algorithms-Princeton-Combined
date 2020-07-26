@@ -81,7 +81,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * FrequencyCounter
   * Binary Search Tree
  #### Extra Credit:
-  * Te Driven Simulation
+  * Time Driven Simulation
   * Event Driven Simulation
   * CubeSum
   * EquationSolve
@@ -92,6 +92,27 @@ This repository will contain all the materials, algorithms implementation, assig
   Though I haven't implemented it yet.But slider puzzle can be solved using IDA* algorithm which is much faster
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  
+#### Week 5 <br />
+ #### Balanced Search Trees: <br />
+  * RedBlackBST
+  * RandomizedBST
+  * MemoryOfBST
+  * Merge Of Two RandomizedBST to one RandomizedBST
+  * BTree
+  * AVLTreeST
+  * SplayTreeST
+ #### Geometric Applitions of BST: <br />
+  * RangeSearch for BST and RedBlacBST
+  * IntervalSearchfor1D
+  * IntervalSearchTree
+  * IntervalSearchfor2D
+  * LineSegment Intersection
+  * Rectangle Intersection(VLSI)
+ #### Assignment: <br />
+  [KDTree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
+ #### Quiz:
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%205%20Full/Week%205%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
