@@ -5,7 +5,7 @@ This repository will contain all the materials, algorithms implementation, assig
 #### Princeton University Course : [Princeton Algorithms](https://www.cs.princeton.edu/courses/archive/spring20/cos226/syllabus.php) <br />
 #### Booksite Link : [Booksite](https://algs4.cs.princeton.edu/home/) <br /><br />
 
-### Description of Impelemted Codes: <br /><br />
+### Description of Impelemented Codes: <br /><br />
 #### Week 1 <br />
  #### UNION FIND: <br />
        * Quick Find 
@@ -20,7 +20,7 @@ This repository will contain all the materials, algorithms implementation, assig
  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
         
 #### Week 2 <br />
- #### * Stacks and Queues: <br />
+ #### Stacks and Queues: <br />
         * Stacks
         * FixedCapacityStackOfStrings
         * ResizingArrayStackOfStrings
@@ -31,7 +31,7 @@ This repository will contain all the materials, algorithms implementation, assig
         * ArrayQueueIterable
         * Dijkstra Algorithm
         * Parenthesis Problem 
- #### * Elementary Sorts: <br />
+ #### Elementary Sorts: <br />
         * Selection Sort
         * Insertion Sort
         * Shell Sort
@@ -42,6 +42,30 @@ This repository will contain all the materials, algorithms implementation, assig
    [Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  
+#### Week 3 <br />
+ #### Merge Sort: <br />
+        * Merge Sort
+        * BottomUp Merge Sort
+        * MergeSort Performance Improvement
+ #### Quick Sort: <br />
+        * Quick Sort
+        * QuickSort Improvement
+        * QuickSort Space Improvement
+        * Randomized QuickSort
+        * QuickSelect
+        * Dihkstra3wayPartition For DuplicateKeys
+        * Dihkstra3wayPartition For Randomized QuickSort
+        * BentleyMcIlroy 3wayPartition
+        * KedallTau Distance
+        * YaroslavskiyDualPivot Quicksort
+ #### Extra Credit:
+        * Convex Hull
+        * CountSort
+ #### Assignment: <br />
+  [Collinear Points](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
+ #### Quiz:
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%203%20Full/Week%203%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
