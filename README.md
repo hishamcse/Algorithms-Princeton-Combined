@@ -15,9 +15,9 @@ This repository will contain all the materials, algorithms implementation, assig
  #### * Analysis Of Algorithms: <br />
         * ThreeSum Problem <br /><br />
  #### Assignment: <br />
-        * Percolation([Specification](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)) <br /><br />
+        * Percolation([Specification] (https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)) <br /><br />
  #### Quiz: <br />
-        * [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
+        * [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
         
 #### Week 2 <br />
  #### * Stacks and Queues: <br />
@@ -39,9 +39,9 @@ This repository will contain all the materials, algorithms implementation, assig
         * SortingUsingCustomDatatype
         * Some Visualization Code <br /><br />
  #### Assignment: <br />
-        * Queues([Specification](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)) <br /><br />
+        * Queues([Specification] (https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)) <br /><br />
  #### Quiz:
-        * [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+        * [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
