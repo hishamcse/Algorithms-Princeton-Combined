@@ -14,7 +14,8 @@ This repository will contain all the materials, algorithms implementation, assig
        * Weighted Quick Union With Path Compression
  #### Analysis Of Algorithms: <br />
         * ThreeSum Problem
- #### Assignment: [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) ) 
+ #### Assignment: 
+ [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
  #### Quiz: 
  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
         
@@ -29,18 +30,18 @@ This repository will contain all the materials, algorithms implementation, assig
         * LinkedQueueOfStrings
         * ArrayQueueIterable
         * Dijkstra Algorithm
-        * Parenthesis Problem <br /><br />
+        * Parenthesis Problem 
  #### * Elementary Sorts: <br />
         * Selection Sort
         * Insertion Sort
         * Shell Sort
         * Shuffle
         * SortingUsingCustomDatatype
-        * Some Visualization Code <br /><br />
+        * Some Visualization Code 
  #### Assignment: <br />
-        * Queues([Specification] (https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)) <br /><br />
+   Queues([Specification](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php))
  #### Quiz:
-        * [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+   [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
