@@ -13,7 +13,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * Weighted Quick Union
   * Weighted Quick Union With Path Compression
  #### Analysis Of Algorithms: <br />
-        * ThreeSum Problem
+  * ThreeSum Problem
  #### Assignment: 
  [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
  #### Quiz: 
@@ -21,23 +21,23 @@ This repository will contain all the materials, algorithms implementation, assig
         
 #### Week 2 <br />
  #### Stacks and Queues: <br />
-        * Stacks
-        * FixedCapacityStackOfStrings
-        * ResizingArrayStackOfStrings
-        * LinkedStackOfStrings
-        * LinkedStackIterable
-        * ResizingArrayQueueOfStrings
-        * LinkedQueueOfStrings
-        * ArrayQueueIterable
-        * Dijkstra Algorithm
-        * Parenthesis Problem 
+  * Stacks
+  * FixedCapacityStackOfStrings
+  * ResizingArrayStackOfStrings
+  * LinkedStackOfStrings
+  * LinkedStackIterable
+  * ResizingArrayQueueOfStrings
+  * LinkedQueueOfStrings
+  * ArrayQueueIterable
+  * Dijkstra Algorithm
+  * Parenthesis Problem 
  #### Elementary Sorts: <br />
-        * Selection Sort
-        * Insertion Sort
-        * Shell Sort
-        * Shuffle
-        * SortingUsingCustomDatatype
-        * Some Visualization Code 
+  * Selection Sort
+  * Insertion Sort
+  * Shell Sort
+  * Shuffle
+  * SortingUsingCustomDatatype
+  * Some Visualization Code 
  #### Assignment: <br />
    [Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
  #### Quiz:
@@ -45,23 +45,23 @@ This repository will contain all the materials, algorithms implementation, assig
   
 #### Week 3 <br />
  #### Merge Sort: <br />
-        * Merge Sort
-        * BottomUp Merge Sort
-        * MergeSort Performance Improvement
+  * Merge Sort
+  * BottomUp Merge Sort
+  * MergeSort Performance Improvement
  #### Quick Sort: <br />
-        * Quick Sort
-        * QuickSort Improvement
-        * QuickSort Space Improvement
-        * Randomized QuickSort
-        * QuickSelect
-        * Dihkstra3wayPartition For DuplicateKeys
-        * Dihkstra3wayPartition For Randomized QuickSort
-        * BentleyMcIlroy 3wayPartition
-        * KedallTau Distance
-        * YaroslavskiyDualPivot Quicksort
+  * Quick Sort
+  * QuickSort Improvement
+  * QuickSort Space Improvement
+  * Randomized QuickSort
+  * QuickSelect
+  * Dihkstra3wayPartition For DuplicateKeys
+  * Dihkstra3wayPartition For Randomized QuickSort
+  * BentleyMcIlroy 3wayPartition
+  * KedallTau Distance
+  * YaroslavskiyDualPivot Quicksort
  #### Extra Credit:
-        * Convex Hull
-        * CountSort
+  * Convex Hull
+  * CountSort
  #### Assignment: <br />
   [Collinear Points](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
  #### Quiz:
