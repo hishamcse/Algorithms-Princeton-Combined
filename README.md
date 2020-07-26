@@ -104,7 +104,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * AVLTreeST
   * SplayTreeST
  #### Geometric Applitions of BST: <br />
-  * RangeSearch for BST and RedBlacBST
+  * RangeSearch for BST and RedBlackBST
   * IntervalSearchfor1D
   * IntervalSearchTree
   * IntervalSearchfor2D
