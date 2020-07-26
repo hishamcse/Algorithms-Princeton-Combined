@@ -5,7 +5,8 @@ This repository will contain all the materials, algorithms implementation, assig
 #### Princeton University Course : [Princeton Algorithms](https://www.cs.princeton.edu/courses/archive/spring20/cos226/syllabus.php) <br />
 #### Booksite Link : [Booksite](https://algs4.cs.princeton.edu/home/) <br /><br />
 
-### Description of Implemented Codes: <br /><br />
+### Description of Implemented Codes: <br />
+[NB: There are a lot of extra implementations and problems in the booksite] <br /><br />
 #### Week 1 <br />
  #### UNION FIND: <br />
   * Quick Find 
@@ -89,7 +90,7 @@ This repository will contain all the materials, algorithms implementation, assig
  #### Assignment: <br />
   [Slider Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)(Using A* search)
  #### Assignment Enrichment:
-  Though I haven't implemented it yet.But slider puzzle can be solved using IDA* algorithm which is much faster
+  Though I haven't implemented it yet.But I have added some resources.Slider puzzle can be solved using IDA* algorithm which is much faster
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
   
@@ -113,6 +114,20 @@ This repository will contain all the materials, algorithms implementation, assig
   [KDTree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%205%20Full/Week%205%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  
+#### Week 6 <br />
+ #### Hash Table: <br />
+  * SeparateChainingHashST
+  * LinearProbingHashST
+ #### Searching Applitions: <br />
+  * EceptionFilterUsingSET
+  * FileIndex finding
+  * LookUpCSV 
+  * Concordance(Book Index)
+  * Sparse Vector
+  * Sparse Matrix
+ #### Quiz:
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%206%20Full/Week%206%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
