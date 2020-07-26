@@ -14,10 +14,10 @@ This repository will contain all the materials, algorithms implementation, assig
        * Weighted Quick Union With Path Compression
  #### Analysis Of Algorithms: <br />
         * ThreeSum Problem
- #### Assignment: <br />
-         Percolation([Specification] (https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)) 
- #### Quiz: <br />
-         [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
+ #### Assignment: 
+      Percolation( [Specification] (https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) ) 
+ #### Quiz: 
+      [Interview Questions] (https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
         
 #### Week 2 <br />
  #### * Stacks and Queues: <br />
