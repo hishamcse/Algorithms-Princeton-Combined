@@ -120,7 +120,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * SeparateChainingHashST
   * LinearProbingHashST
  #### Searching Applitions: <br />
-  * EceptionFilterUsingSET
+  * ExceptionFilterUsingSET
   * FileIndex finding
   * LookUpCSV 
   * Concordance(Book Index)
