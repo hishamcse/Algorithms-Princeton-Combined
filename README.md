@@ -8,10 +8,10 @@ This repository will contain all the materials, algorithms implementation, assig
 ### Description of Impelemented Codes: <br /><br />
 #### Week 1 <br />
  #### UNION FIND: <br />
-       * Quick Find 
-       * Quick Union 
-       * Weighted Quick Union
-       * Weighted Quick Union With Path Compression
+    * Quick Find 
+    * Quick Union
+    * Weighted Quick Union
+    * Weighted Quick Union With Path Compression
  #### Analysis Of Algorithms: <br />
         * ThreeSum Problem
  #### Assignment: 
