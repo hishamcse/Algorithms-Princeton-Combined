@@ -56,7 +56,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * QuickSelect
   * Dihkstra3wayPartition For DuplicateKeys
   * Dihkstra3wayPartition For Randomized QuickSort
-  * BentleyMcIlroy 3wayPartition
+  * BentleyMcIlroy3wayPartition
   * KedallTau Distance
   * YaroslavskiyDualPivot Quicksort
  #### Extra Credit:
@@ -64,8 +64,34 @@ This repository will contain all the materials, algorithms implementation, assig
   * CountSort
  #### Assignment: <br />
   [Collinear Points](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
+ #### Additional Assignment: <br/>
+  [Autocomplete](https://www.cs.princeton.edu/courses/archive/spring20/cos226/assignments/autocomplete/specification.php)
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%203%20Full/Week%203%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  
+#### Week 4 <br />
+ #### Priority Queues: <br />
+  * UnorderedArray Implementation
+  * OrderedArray Implementation
+  * MINPQBinaryHeap
+  * MAXPQBinaryHeap
+  * HeapSort
+ #### Elementary Symbol Tables: <br />
+  * Elementary Efficient Implementation
+  * FrequencyCounter
+  * Binary Search Tree
+ #### Extra Credit:
+  * Te Driven Simulation
+  * Event Driven Simulation
+  * CubeSum
+  * EquationSolve
+  * PowerNumber
+ #### Assignment: <br />
+  [Slider Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)(Using A* search)
+ #### Assignment Enrichment:
+  Though I haven't implemented it yet.But slider puzzle can be solved using IDA* algorithm which is much faster
+ #### Quiz:
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
 
      
 #### I will update the repository when Part II course will be completed
