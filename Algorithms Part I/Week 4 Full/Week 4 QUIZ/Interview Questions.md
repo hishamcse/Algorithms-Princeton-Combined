@@ -36,8 +36,8 @@ Design an algorithm to perform an inorder traversal of a binary search tree usin
 ##### Question 4
 #### Web tracking. <br/>
 Suppose that you are tracking n web sites and mm users and you want to support the following API: <br/>
-	* User visits a website.
-	* How many times has a given user visited a given site?
+ * User visits a website.
+ * How many times has a given user visited a given site?
  
 What data structure or data structures would you use?
 
