@@ -5,7 +5,7 @@ This repository will contain all the materials, algorithms implementation, assig
 #### Princeton University Course : [Princeton Algorithms](https://www.cs.princeton.edu/courses/archive/spring20/cos226/syllabus.php) <br />
 #### Booksite Link : [Booksite](https://algs4.cs.princeton.edu/home/) <br /><br />
 
-### Description of Impelemented Codes: <br /><br />
+### Description of Implemented Codes: <br /><br />
 #### Week 1 <br />
  #### UNION FIND: <br />
   * Quick Find 
