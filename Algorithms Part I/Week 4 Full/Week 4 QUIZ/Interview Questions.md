@@ -16,3 +16,28 @@ A taxicab number is an integer that can be expressed as the sum of two cubes of 
  Design an algorithm to find all taxicab numbers with a, b, c, and d less than n. <br />
 •	Version 1: Use time proportional to n^2 logn and space proportional to n^2. <br />
 •	Version 2: Use time proportional to n^2 logn and space proportional to n.
+
+### Interview Questions: Elementary Symbol Tables (ungraded)
+TOTAL POINTS 4
+##### Question 1
+#### Java autoboxing and equals(). <br/>
+Consider two double values a and b and their corresponding Double values x and y. <br/>
+	* Find values such that (a==b) is true but x.equals(y) is false. <br/>
+ *	Find values such (a==b) is false but x.equals(y) is true. <br/><br/>
+
+##### Question 2
+#### Check if a binary tree is a BST. <br/>
+Given a binary tree where each Node contains a key, determine whether it is a binary search tree. Use extra space proportional to the height of the tree. <br/><br/>
+
+##### Question 3
+#### Inorder traversal with constant extra space. <br/>
+Design an algorithm to perform an inorder traversal of a binary search tree using only a constant amount of extra space. <br/><br/>
+
+##### Question 4
+#### Web tracking. <br/>
+Suppose that you are tracking n web sites and mm users and you want to support the following API: <br/>
+	* User visits a website.
+	* How many times has a given user visited a given site?
+ 
+What data structure or data structures would you use?
+
