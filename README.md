@@ -6,7 +6,8 @@ This repository will contain all the materials, algorithms implementation, assig
 #### Booksite Link : [Booksite](https://algs4.cs.princeton.edu/home/) <br /><br />
 
 ### Overview of Implemented Codes: <br />
-[NB: There are a lot of extra implementations and problems in the booksite] <br /><br />
+[NB: There are a lot of extra implementations and problems in the booksite] <br />
+[NB: I have added two web solution for all interview questions at the respective week's quiz folder <br /><br />
 #### Week 1 <br />
  #### UNION FIND: <br />
   * Quick Find 
