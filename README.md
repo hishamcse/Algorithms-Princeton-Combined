@@ -104,7 +104,7 @@ This repository will contain all the materials, algorithms implementation, assig
   * BTree
   * AVLTreeST
   * SplayTreeST
- #### Geometric Applitions of BST: <br />
+ #### Geometric Applications of BST: <br />
   * RangeSearch for BST and RedBlackBST
   * IntervalSearchfor1D
   * IntervalSearchTree
@@ -120,7 +120,7 @@ This repository will contain all the materials, algorithms implementation, assig
  #### Hash Table: <br />
   * SeparateChainingHashST
   * LinearProbingHashST
- #### Searching Applitions: <br />
+ #### Searching Applications: <br />
   * ExceptionFilterUsingSET
   * FileIndex finding
   * LookUpCSV 
