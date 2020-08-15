@@ -1,5 +1,4 @@
 # Algorithms-Princeton
-[![Hisham's github stats](https://github-readme-stats.vercel.app/api?username=hishamcse)](https://github.com/anuraghazra/github-readme-stats)
 This repository will contain all the materials, algorithms implementation, assignment code, Interview question related to Princeton University algorithms Part I &amp; II course at COURSERA <br />
 #### Course 1 Link : [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/) <br />
 #### Course 2 Link : [Algorithms Part II](https://www.coursera.org/learn/algorithms-part2) <br />
