@@ -1,8 +1,0 @@
-apple
-orange
-banana
-grape
-strawberry
-cabbage
-mango
-watermelon

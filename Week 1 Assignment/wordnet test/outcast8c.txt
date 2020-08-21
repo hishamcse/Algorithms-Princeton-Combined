@@ -1,8 +1,0 @@
-car
-auto
-truck
-plane
-tree
-train
-vehicle
-van
