@@ -327,6 +327,17 @@ This repository contains all the algorithms implementation & problems solution, 
   * Hamiltonian Path at Directed Acyclic Graph
  #### Quiz:
   [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%206%20FULL/Week%206%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  
+#### Xtra_Advanced Concepts <br />
+ #### Extra Codes: <br />
+  * Assignment Problem Using Bitmask
+  * BinaryCounter
+  * Euler Conjecture
+  * Karatsuba Multiplication
+  * Subset Sum
+  * Traveling Salesman Problem
+  
+ ##### For various Puzzle Solvers,you can visit my another repository ([Puzzle Solver] (https://github.com/hishamcse/Puzzle-Solver-Simplified))
 
      
 #### I will be updating the repository whenever I will implement something new related to these courses
