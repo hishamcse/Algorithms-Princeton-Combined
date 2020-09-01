@@ -337,7 +337,7 @@ This repository contains all the algorithms implementation & problems solution, 
   * Subset Sum
   * Traveling Salesman Problem
   
- ##### For various Puzzle Solvers,you can visit my another repository ([Puzzle Solver] (https://github.com/hishamcse/Puzzle-Solver-Simplified))
+ #### For various Puzzle Solvers,you can visit my another repository [Puzzle Solver](https://github.com/hishamcse/Puzzle-Solver-Simplified)
 
      
 #### I will be updating the repository whenever I will implement something new related to these courses
