@@ -20,7 +20,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: 
  [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
  #### Quiz: 
- [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br /><br />
+ [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%201%20Full/Week%201%20Quiz/Interview%20Questions.md) <br /><br />
         
 #### Week 2 <br />
  #### Stacks and Queues: <br />
@@ -44,7 +44,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
    [Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%202%20Full/Week%202%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 3 <br />
  #### Merge Sort: <br />
@@ -70,7 +70,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Additional Assignment: <br/>
   [Autocomplete](https://www.cs.princeton.edu/courses/archive/spring20/cos226/assignments/autocomplete/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%203%20Full/Week%203%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%203%20Full/Week%203%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 4 <br />
  #### Priority Queues: <br />
@@ -94,7 +94,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment Enrichment:
   Slider puzzle can be solved using IDA* algorithm which is much faster.Though I haven't implemented it yet.But I have added some resources.
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%204%20Full/Week%204%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 5 <br />
  #### Balanced Search Trees: <br />
@@ -115,7 +115,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
   [KDTree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%205%20Full/Week%205%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20I/Week%205%20Full/Week%205%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 6 <br />
  #### Hash Table: <br />
@@ -182,7 +182,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: 
  [Wordnet](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php)
  #### Quiz: 
- [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%201%20FULL/Week%201%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+ [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%201%20FULL/Week%201%20QUIZ/Interview%20Questions.md) <br /><br />
         
 #### Week 2 <br />
  #### Minimum Spanning Tree: <br />
@@ -219,7 +219,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
    [Seam Carving](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%202%20FULL/Week%202%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%202%20FULL/Week%202%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 3 <br />
  #### MaxFlow Mincut: <br />
@@ -253,7 +253,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
   [Baseball Elimination](https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%203%20FULL/Week%203%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%203%20FULL/Week%203%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 4 <br />
  #### Trie: <br />
@@ -278,7 +278,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
   [Boggle](https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%204%20FULL/Week%204%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%204%20FULL/Week%204%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 5 <br />
  #### Regular Expression: <br />
@@ -305,7 +305,7 @@ This repository contains all the algorithms implementation & problems solution, 
  #### Assignment: <br />
   [Burrows-Wheeler](https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php)
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%205%20FULL/Week%205%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%205%20FULL/Week%205%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Week 6 <br />
  #### Reduction: <br />
@@ -326,7 +326,7 @@ This repository contains all the algorithms implementation & problems solution, 
   * Hamiltonian Path
   * Hamiltonian Path at Directed Acyclic Graph
  #### Quiz:
-  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%206%20FULL/Week%206%20QUIZ/Interview%20Questions.md) <br /><br /><br />
+  [Interview Questions](https://github.com/hishamcse/Algorithms-Princeton-Combined/blob/master/Algorithms%20Part%20II/Week%206%20FULL/Week%206%20QUIZ/Interview%20Questions.md) <br /><br />
   
 #### Xtra_Advanced Concepts <br />
  #### Extra Codes: <br />
